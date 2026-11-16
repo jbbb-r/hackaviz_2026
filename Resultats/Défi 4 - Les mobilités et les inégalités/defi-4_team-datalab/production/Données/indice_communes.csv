@@ -1,0 +1,1286 @@
+﻿insee;commune;population;indice;nb_gares;nb_lignes;offre;robustesse;fiabilite;ligne_principale;lignes;gares
+75104;Paris 4e (Hôtel-de-Ville);26850.0;96.2;8;5;291.8;0.786;0.971;METRO 1;METRO 1, METRO 11, METRO 4, METRO 5, METRO 7;Bastille, Châtelet, Cité, Hôtel de Ville de Paris - 4ème Arrondissement, Pont Marie (Cité des Arts), Rambuteau, Saint-Paul (Le Marais), Sully Morland
+75112;Paris 12e (Reuilly);137449.0;93.9;20;12;454.4;0.857;0.96;METRO 14;METRO 1, METRO 14, METRO 2, METRO 5, METRO 6, METRO 8, RER A, RER D, TER BOURGOGNE-FC, TER CENTRE-VDL, TRAIN R, TRAM 3a;Alexandra David-Néel / Porte de Saint-Mandé, Baron Leroy, Bastille, Bel-Air, Cour Saint-Emilion, Daumesnil, Dugommier, Gare de Bercy, Gare de Lyon, Ledru Rollin, Michel Bizot, Montempoivre, Montgallet, Nation, Picpus, Porte Dorée, Porte de Charenton, Porte de Vincennes, Quai de la Rapée, Reuilly Diderot
+75120;Paris 20e (Ménilmontant);182406.0;93.8;20;7;344.8;0.821;0.964;METRO 1;METRO 1, METRO 11, METRO 2, METRO 3, METRO 3bis, METRO 9, TRAM 3b;Adrienne Bolland, Alexandre Dumas, Buzenval / Avron, Couronnes, Gambetta, Jourdain, Maraîchers, Marie De Miribel, Ménilmontant, Pelleport, Porte de Bagnolet, Porte de Montreuil, Porte de Vincennes, Porte des Lilas, Pyrenées, Père Lachaise, Saint-Fargeau, Séverine, Télégraphe
+75116;Paris 16e (Passy);157588.0;92.6;24;6;263.4;0.766;0.962;METRO 1;METRO 1, METRO 10, METRO 2, METRO 6, METRO 9, RER C;Avenue Foch, Avenue Henri Martin, Avenue du Président Kennedy Maison de Radio France, Boissière, Boulainvilliers, Chardon Lagache, Exelmans, Iéna, Jasmin, Kléber, La Muette, Michel-Ange - Auteuil, Michel-Ange - Molitor, Mirabeau, Passy, Porte Dauphine, Porte Maillot, Porte d'Auteuil, Porte de Saint-Cloud, Ranelagh, Rue de la Pompe, Trocadéro, Victor Hugo, Église d'Auteuil
+75108;Paris 8e (Élysée);35167.0;91.7;17;11;544.6;0.875;0.954;METRO 13;METRO 1, METRO 12, METRO 13, METRO 14, METRO 2, METRO 3, METRO 8, METRO 9, TER NORMANDIE, TRAIN J, TRAIN L;Alma - Marceau, Champs-Élysées Clemenceau, Charles de Gaulle - Etoile, Concorde, Courcelles, Europe, Franklin D. Roosevelt, Gare Saint-Lazare, George V, Madeleine, Miromesnil, Monceau, Rome, Saint-Augustin, Saint-Philippe du Roule, Ternes, Villiers
+92062;Puteaux;44002.0;91.5;3;5;172.4;0.637;0.972;METRO 1;METRO 1, RER A, TRAIN L, TRAIN U, TRAM 2;Esplanade de La Défense, La Défense (Grande Arche), Puteaux
+75117;Paris 17e (Batignolles-Monceau);157132.0;91.5;14;9;423.7;0.839;0.957;METRO 13;METRO 1, METRO 13, METRO 14, METRO 3, METRO 6, RER A, RER C, TRAIN L, TRAM 3b;Argentine, Brochant, Charles de Gaulle - Etoile, Epinettes - Pouchet, Honoré De Balzac, Malesherbes, Place de Clichy, Pont Cardinet, Porte Maillot, Porte d'Asnières - Marguerite Long, Porte de Champerret, Porte de Clichy, Péreire, Wagram
+75119;Paris 19e (Buttes-Chaumont);176915.0;91.5;23;7;306.0;0.805;0.959;METRO 7;METRO 11, METRO 2, METRO 5, METRO 7, METRO 7bis, RER E, TRAM 3b;Bolivar, Botzaris, Butte du Chapeau Rouge, Buttes Chaumont, Canal Saint-Denis, Colonel Fabien, Corentin Cariou, Crimée, Danube, Delphine Seyrig, Ella Fitzgerald, Hôpital Robert Debré, Jaurès, Laumière, Ourcq, Place des Fêtes, Porte de La Villette, Porte de Pantin, Porte des Lilas, Pré Saint-Gervais, Riquet, Rosa Parks, Stalingrad
+75101;Paris 1er (Louvre);14893.0;91.4;9;8;401.1;0.839;0.959;METRO 14;METRO 1, METRO 14, METRO 4, METRO 7, METRO 8, RER A, RER B, RER D;Châtelet, Châtelet les Halles, Les Halles, Louvre Rivoli, Madeleine, Palais Royal - Musée Du Louvre, Pont Neuf, Pyramides, Tuileries
+75113;Paris 13e (Gobelins);181254.0;91.0;21;9;368.0;0.823;0.954;METRO 14;METRO 10, METRO 14, METRO 5, METRO 6, METRO 7, RER C, TER CENTRE-VDL, TRAM 3a, TRAM 9;Avenue de France, Bibliothèque François Mitterrand Emile Durkheim, Campo Formio, Chevaleret, Corvisart, Gare d'Austerlitz, Glacière, Les Gobelins, Maison Blanche, Maryse Bastié, Nationale, Olympiades, Place d'Italie - Italie 2, Porte d'Italie, Porte d'Ivry, Porte de Choisy, Poterne des Peupliers, Quai de la Gare, Saint-Marcel, Stade Charléty - Porte de Gentilly, Tolbiac
+75111;Paris 11e (Popincourt);136205.0;90.8;18;6;331.1;0.819;0.955;METRO 9;METRO 11, METRO 2, METRO 3, METRO 5, METRO 8, METRO 9;Bastille, Belleville, Bréguet-Sabin, Charonne, Faidherbe Chaligny, Filles Du Calvaire, Goncourt, Nation, Oberkampf, Parmentier, Philippe Auguste, Père Lachaise, Richard Lenoir, Rue Saint-Maur, Rue des Boulets, République, Saint-Ambroise, Voltaire
+75118;Paris 18e (Buttes-Montmartre);180518.0;89.9;19;6;313.7;0.783;0.953;METRO 13;FUNICULAIRE MONTMARTRE, METRO 12, METRO 13, METRO 2, METRO 4, TRAM 3b;Abbesses, Angélique Compoint - Porte de Montmartre, Château Rouge, Colette Besson, Diane Arbus - Porte des Poissonniers, Funiculaire de Montmartre - Gare basse, Funiculaire de Montmartre - Gare haute, Guy-Môquet, Jules Joffrin, La Fourche, Lamarck Caulaincourt, Marcadet Poissonniers, Marx Dormoy, Place de Clichy, Porte d'Aubervilliers, Porte de Clignancourt, Porte de La Chapelle, Porte de Saint-Ouen, Simplon
+94080;Vincennes;48193.0;89.8;4;2;109.3;0.431;0.987;METRO 1;METRO 1, RER A;Bérault, Château de Vincennes, Saint-Mandé, Vincennes
+75110;Paris 10e (Entrepôt);83097.0;88.4;15;15;518.2;0.886;0.952;METRO 9;METRO 2, METRO 4, METRO 5, METRO 7, METRO 7bis, METRO 8, METRO 9, RER B, RER D, RER E, TER GRAND-EST, TER HAUTS-DE-FRANCE, TRAIN H, TRAIN K, TRAIN P;Barbès Rochechouart, Belleville, Bonne Nouvelle, Château Landon, Château d'Eau / Mairie du 10e, Gare de l'Est, Gare du Nord, Jacques Bonsergent, Jaurès, La Chapelle, Louis Blanc, Magenta, République, Stalingrad, Strasbourg - Saint-Denis
+93055;Pantin;61929.0;88.0;5;3;136.6;0.576;0.96;METRO 5;METRO 5, METRO 7, RER E;Aubervilliers Pantin Quatre Chemins, Bobigny - Pantin - Raymond Queneau, Hoche, Pantin, Église de Pantin
+93008;Bobigny;56927.0;87.3;11;2;76.0;0.281;0.968;METRO 5;METRO 5, TRAM 1;Auguste Delaune, Bobigny Pablo Picasso, Clovis / Drancy - Avenir, Escadrille Normandie - Niémen, Gaston Roulaud, Hôpital Avicenne, Hôtel de Ville de Bobigny, Jean Rostand / Lamartine, La Ferme, Libération, Maurice Lachâtre
+92012;Boulogne-Billancourt;119019.0;84.8;5;2;80.0;0.376;0.965;METRO 9;METRO 10, METRO 9;Billancourt, Boulogne Jean Jaurès, Boulogne Pont de Saint-Cloud / Rhin et Danube, Marcel Sembat, Pont de Sèvres
+75103;Paris 3e (Temple);31674.0;84.7;6;5;275.1;0.783;0.952;METRO 9;METRO 11, METRO 3, METRO 4, METRO 8, METRO 9;Arts et Métiers, Chemin Vert, Réaumur Sébastopol, République, Saint-Sébastien Froissart, Temple
+92023;Clamart;58576.0;83.5;7;3;57.9;0.485;0.954;TRAM 6;TRAIN N, TRAM 10, TRAM 6;Clamart, Georges Pompidou, Hôpital Béclère, Jardin Parisien, Mail de la Plaine, Pavé Blanc, Soleil Levant
+75109;Paris 9e (Opéra);56496.0;82.7;18;9;470.4;0.855;0.949;METRO 13;METRO 12, METRO 13, METRO 2, METRO 3, METRO 7, METRO 8, METRO 9, RER A, RER E;Anvers, Auber, Blanche, Cadet, Chaussée d'Antin - La Fayette, Gare Saint-Lazare, Grands Boulevards, Haussmann Saint-Lazare, Havre - Caumartin, Le Peletier, Liège, Notre-Dame-de-Lorette, Opéra, Pigalle, Poissonnière, Richelieu Drouot, Saint-Georges, Trinité d'Estienne d'Orves
+93070;Saint-Ouen-sur-Seine;53615.0;81.9;3;3;114.0;0.431;0.958;METRO 14;METRO 13, METRO 14, RER C;Garibaldi, Mairie de Saint-Ouen, Saint-Ouen
+75102;Paris 2e (Bourse);19397.0;81.2;8;5;282.7;0.789;0.951;METRO 9;METRO 3, METRO 4, METRO 7, METRO 8, METRO 9;Bourse, Opéra, Quatre Septembre, Richelieu Drouot, Réaumur Sébastopol, Sentier, Strasbourg - Saint-Denis, Étienne Marcel
+78551;Saint-Germain-en-Laye;45931.0;80.7;5;2;26.5;0.453;0.962;RER A;RER A, TRAM 13;Achères Grand Cormier, Camp des Loges, Fourqueux - Bel Air, Lisière Pereire, Saint-Germain-en-Laye
+75106;Paris 6e (Luxembourg);40336.0;80.5;12;4;176.9;0.673;0.95;METRO 4;METRO 10, METRO 12, METRO 4, RER B;Gare Montparnasse, Luxembourg, Mabillon, Notre-Dame-des-Champs, Odéon, Rennes, Saint-Germain-des-Prés, Saint-Michel Notre-Dame, Saint-Placide, Saint-Sulpice, Sèvres Babylone, Vavin
+75115;Paris 15e (Vaugirard);228962.0;80.1;29;11;370.7;0.817;0.938;METRO 13;METRO 10, METRO 12, METRO 13, METRO 6, METRO 8, RER C, TER CENTRE-VDL, TER NORMANDIE, TRAIN N, TRAM 2, TRAM 3a;Avenue Émile Zola, Balard, Bir-Hakeim, Boucicaut, Brancion, Cambronne, Champ de Mars Tour Eiffel, Charles Michels, Commerce, Convention, Desnouettes, Dupleix, Falguière, Félix Faure, Gare Montparnasse, Georges Brassens, Henri Farmann, Javel, La Motte Picquet - Grenelle, Lourmel, Pasteur, Pont du Garigliano - Hôpital Européen G. Pompidou, Porte d'Issy, Porte de Versailles, Suzanne Lenglen, Sèvres Lecourbe, Ségur, Vaugirard, Volontaires
+93066;Saint-Denis;149077.0;79.9;26;9;267.1;0.828;0.939;METRO 12;METRO 12, METRO 13, RER B, RER D, TRAIN H, TRAM 1, TRAM 11, TRAM 5, TRAM 8;Alcide d'Orbigny, Basilique de Saint-Denis, Baudelaire, Butte Pinson (Parc Régional), Carrefour Pleyel, Cimetière de Saint-Denis, Delaunay - Belleville, Front Populaire, Guynemer, Hôpital Delafontaine / Joliot Curie, Jacques Prévert / Cimetière, Joncherolles, La Plaine Stade de France - Saint-Denis - Aubervilliers, Mairie de Pierrefitte, Marché de Saint-Denis, Paul Éluard / Théâtre Gérard Philipe, Petit Pierrefitte, Pierrefitte - Stains, Roger Semât, Saint-Denis, Saint-Denis Porte de Paris, Saint-Denis Université (Paris 8), Square de Geyter, Stade de France Saint-Denis, Suzanne Valadon, Théâtre Gérard Philippe / Eglise Neuve
+75114;Paris 14e (Observatoire);136420.0;79.5;15;5;248.7;0.727;0.945;METRO 13;METRO 13, METRO 4, METRO 6, RER B, TRAM 3a;Alésia, Cité universitaire, Denfert Rochereau, Didot, Edgar Quinet, Gaîté, Jean Moulin, Montsouris, Mouton Duvernet, Pernety, Plaisance / Vercingétorix, Porte d'Orléans, Porte de Vanves, Raspail, Saint-Jacques
+92050;Nanterre;97783.0;78.0;3;2;58.4;0.333;0.956;RER A;RER A, TRAIN L;Nanterre Préfecture / Esplanade Charles De Gaulle, Nanterre Université, Nanterre Ville
+91479;Paray-Vieille-Poste;8202.0;77.7;3;2;39.4;0.495;0.953;TRAM 7;ORLYVAL, TRAM 7;Aéroport Orly 1-2-3 (Terminal Ouest), Aéroport d’Orly (Terminal 4), Hélène Boucher (Orlytech)
+93031;Épinay-sur-Seine;52833.0;77.7;9;4;86.3;0.633;0.945;TRAIN H;RER C, TRAIN H, TRAM 11, TRAM 8;Blumenthal, Epinay - Orgemont, Gilbert Bonnemaison, Lacépède, Les Béatus, Les Mobiles, Rose Bertin (Centre Commercial l'Ilo), Épinay - Villetaneuse, Épinay-sur-Seine
+93079;Villetaneuse;12530.0;77.6;4;2;38.9;0.383;0.953;TRAM 11;TRAM 11, TRAM 8;César, Jean Vilar, Pablo Néruda, Villetaneuse Université
+78646;Versailles;84095.0;77.5;7;8;69.5;0.758;0.947;TRAIN N;RER C, TER CENTRE-VDL, TER NORMANDIE, TRAIN L, TRAIN N, TRAIN U, TRAIN V, TRAM 13;Les Portes de Saint-Cyr, Montreuil, Porchefontaine, Saint-Cyr, Versailles Chantiers, Versailles Château Rive Gauche, Versailles Rive Droite
+75105;Paris 5e (Panthéon);54428.0;77.3;8;4;166.7;0.646;0.941;METRO 7;METRO 10, METRO 7, RER B, RER C;Cardinal Lemoine, Censier Daubenton, Cluny - La Sorbonne, Jussieu, Maubert Mutualité, Place Monge, Port Royal, Saint-Michel Notre-Dame
+93027;La Courneuve;47167.0;77.2;8;4;136.5;0.583;0.944;METRO 7;METRO 7, RER B, TRAM 1, TRAM 11;Cosmonautes, Danton, Dugny - La Courneuve, Hôtel de Ville de la Courneuve, La Courneuve - 8 Mai 1945, La Courneuve - Aubervilliers, La Courneuve - Six Routes, Stade Géo André
+75107;Paris 7e (Palais-Bourbon);47709.0;77.1;13;5;231.9;0.706;0.935;METRO 13;METRO 10, METRO 12, METRO 13, METRO 8, RER C;Assemblée Nationale / Lille - Université, Duroc, Invalides, La Tour Maubourg, Musée d'Orsay, Pont de l'Alma, Rue du Bac, Saint-François Xavier, Solférino, Sèvres Babylone, Vaneau, Varenne, École Militaire
+92048;Meudon;46334.0;76.6;6;4;89.9;0.634;0.944;TRAM 2;RER C, TRAIN N, TRAM 2, TRAM 6;Bellevue, Georges Millandy / Clinique, Meudon, Meudon Val Fleury, Meudon-la-Forêt, Meudon-sur-Seine
+93051;Noisy-le-Grand;72978.0;76.6;3;2;33.5;0.179;0.967;RER A;RER A, RER E;Les Yvris Noisy-le-Grand, Noisy - Champs, Noisy-le-Grand - Mont d'Est
+94033;Fontenay-sous-Bois;53757.0;76.4;2;2;41.8;0.33;0.964;RER A;RER A, RER E;Fontenay-sous-Bois, Val de Fontenay
+94081;Vitry-sur-Seine;93963.0;75.5;11;3;61.9;0.568;0.943;TRAM 9;RER C, TRAM 7, TRAM 9;Beethoven - Concorde, Camille Groult, Constant Coquelin, Domaine Chérioux, Germaine Tailleferre, Les Ardoines, Mairie de Vitry-sur-Seine, Moulin Vert, Musée MAC VAL, Vitry-sur-Seine, Watteau - Rondenay
+94041;Ivry-sur-Seine;65064.0;75.3;6;3;69.1;0.544;0.945;METRO 7;METRO 7, RER C, TRAM 9;Châteaudun - Barbès, Cimetière Parisien d'Ivry, Ivry-sur-Seine, La Briqueterie, Mairie d'Ivry, Pierre et Marie Curie
+92002;Antony;64263.0;74.9;7;4;70.5;0.609;0.939;RER B;ORLYVAL, RER B, RER C, TRAM 10;Antony, Chemin d'Antony, Fontaine Michalon, La Croix de Berny, LaVallée, Les Baconnets, Parc de Sceaux
+92025;Colombes;91053.0;74.5;7;3;65.4;0.481;0.945;TRAM 2;TRAIN J, TRAIN L, TRAM 2;Colombes, Jacqueline Auriol, La Garenne-Colombes, Le Stade, Les Vallées, Parc Pierre Lagravère, Victor Basch
+93053;Noisy-le-Sec;45510.0;74.4;3;2;38.0;0.432;0.952;RER E;RER E, TRAM 1;Noisy-le-Sec, Petit Noisy, Pont de Bondy
+94054;Orly;24658.0;74.1;6;3;52.5;0.519;0.947;TRAM 9;RER C, TRAM 7, TRAM 9;Caroline Aigle (Orlyfret), Christophe Colomb, Coeur d'Orly, Les Saules, Orly - Gaston Viens, Orly Ville
+92004;Asnières-sur-Seine;93941.0;73.9;4;4;88.3;0.616;0.94;METRO 13;METRO 13, TRAIN J, TRAIN L, TRAM 1;Asnières - Gennevilliers Les Courtilles, Asnières-sur-Seine, Gabriel Péri, Quatre Routes
+92040;Issy-les-Moulineaux;67669.0;73.8;6;3;97.1;0.546;0.932;METRO 12;METRO 12, RER C, TRAM 2;Corentin Celton, Issy, Issy Val de Seine, Jacques-Henri Lartigue, Les Moulineaux, Mairie d'Issy
+92072;Sèvres;22303.0;72.8;4;4;59.2;0.436;0.95;TRAM 2;TRAIN L, TRAIN N, TRAIN U, TRAM 2;Brimborion, Musée de Sèvres, Sèvres - Ville-d'Avray, Sèvres Rive Gauche
+92064;Saint-Cloud;29855.0;72.8;5;3;60.9;0.45;0.945;TRAM 2;TRAIN L, TRAIN U, TRAM 2;Le Val d'Or, Les Coteaux, Les Milons, Parc de Saint-Cloud, Saint-Cloud
+92051;Neuilly-sur-Seine;59538.0;72.8;2;1;62.2;0.0;1.0;METRO 1;METRO 1;Les Sablons, Pont de Neuilly
+92036;Gennevilliers;50979.0;72.6;8;3;62.2;0.452;0.938;METRO 13;METRO 13, RER C, TRAM 1;Asnières - Gennevilliers Les Courtilles, Gennevilliers, Le Luth, Le Village, Les Agnettes, Les Grésillons, Parc des Chanteraines, Timbaud
+93077;Villemomble;29795.0;72.5;3;2;45.2;0.258;0.953;TRAM 4;RER E, TRAM 4;Allée de la Tour-Rendez-vous, Le Raincy - Villemomble - Montfermeil, Les Coquetiers
+92020;Châtillon;36705.0;72.2;5;2;96.8;0.308;0.947;METRO 13;METRO 13, TRAM 6;Centre de Châtillon, Châtillon-Montrouge, Division Leclerc, Général De Gaulle / Parc André Malraux, Vauban
+78686;Viroflay;17237.0;71.8;3;4;71.4;0.582;0.939;TRAM 6;RER C, TRAIN L, TRAIN N, TRAM 6;Chaville - Vélizy, Viroflay Rive Droite, Viroflay Rive Gauche
+92007;Bagneux;44572.0;71.7;2;1;54.9;0.0;0.973;METRO 4;METRO 4;Bagneux - Lucie Aubrac, Barbara
+94073;Thiais;32918.0;71.5;3;3;52.5;0.509;0.947;TRAM 9;RER C, TRAM 7, TRAM 9;Bretagne, Pont de Rungis Aéroport d'Orly, Trois Communes
+94076;Villejuif;60183.0;71.1;4;2;49.5;0.401;0.951;METRO 7;METRO 7, TRAM 7;Lamartine, Paul Vaillant Couturier, Villejuif - Louis Aragon, Villejuif Léo Lagrange
+93001;Aubervilliers;88365.0;70.5;3;2;103.1;0.448;0.939;METRO 7;METRO 12, METRO 7;Aimé Césaire, Fort d'Aubervilliers, Mairie d'Aubervilliers
+92044;Levallois-Perret;68092.0;70.2;4;2;85.0;0.345;0.942;METRO 3;METRO 3, TRAIN L;Anatole France, Clichy - Levallois, Louise Michel, Pont de Levallois
+92026;Courbevoie;82902.0;70.1;3;2;63.7;0.469;0.941;TRAM 2;TRAIN L, TRAM 2;Bécon les Bruyères, Courbevoie, Faubourg de l'Arche
+93010;Bondy;50595.0;70.0;2;2;45.2;0.258;0.953;TRAM 4;RER E, TRAM 4;Bondy, Remise à Jorelle
+95219;Ermont;29489.0;70.0;4;3;38.1;0.627;0.937;RER C;RER C, TRAIN H, TRAIN J;Cernay, Ermont - Eaubonne, Ermont Halte, Gros Noyer Saint-Prix
+78545;Saint-Cyr-l'École;21268.0;69.5;2;4;38.4;0.694;0.948;TRAIN N;RER C, TRAIN N, TRAIN U, TRAM 13;Allée Royale, Saint-Cyr
+91477;Palaiseau;37471.0;69.3;4;2;68.9;0.207;0.947;METRO 18;METRO 18, RER B;Lozère, Palaiseau, Palaiseau - Villebon, Place Marguerite Perey / Polytechnique Vauve
+94068;Saint-Maur-des-Fossés;76572.0;68.9;4;1;19.6;0.0;0.97;RER A;RER A;Champigny, La Varenne - Chennevières, Le Parc de Saint-Maur, Saint-Maur-des-Fossés - Créteil
+78172;Conflans-Sainte-Honorine;36958.0;68.5;2;3;37.4;0.519;0.95;TRAIN J;RER A, TRAIN J, TRAIN L;Conflans Fin d'Oise, Conflans Sainte-Honorine
+92073;Suresnes;48956.0;68.4;3;3;51.7;0.346;0.949;TRAM 2;TRAIN L, TRAIN U, TRAM 2;Belvédère, Suresnes - Longchamp, Suresnes Mont Valérien
+91471;Orsay;16498.0;68.4;3;2;71.8;0.239;0.946;METRO 18;METRO 18, RER B;Le Guichet, Orsay Ville, Université Paris-Saclay
+94022;Choisy-le-Roi;45946.0;68.2;5;2;45.1;0.426;0.936;TRAM 9;RER C, TRAM 9;Carle - Darthé, Choisy-le-Roi, Four - Peary, Rouget de Lisle, Verdun - Hoche
+95572;Saint-Ouen-l'Aumône;25578.0;68.1;5;3;24.3;0.528;0.94;TRAIN H;RER C, TRAIN H, TRAIN J;Epluches, Pont Petit, Saint-Ouen-l'Aumône, Saint-Ouen-l'Aumône Liesse, Saint-Ouen-l'Aumône Quartier de l'Église
+93048;Montreuil;111934.0;68.0;3;1;58.5;0.0;0.959;METRO 9;METRO 9;Croix de Chavaux, Mairie de Montreuil, Robespierre
+93071;Sevran;52535.0;67.7;4;2;35.6;0.463;0.937;RER B;RER B, TRAM 4;Freinville Sevran, Rougemont Chanteloup, Sevran - Livry, Sevran Beaudottes
+91377;Massy;51729.0;67.5;3;4;50.0;0.467;0.934;RER B;RER B, RER C, TRAIN V, TRAM 12;Massy - Palaiseau, Massy - Verrières, Massy Europe, Massy-Palaiseau
+94028;Créteil;93397.0;66.4;5;3;65.5;0.302;0.919;METRO 8;CABLE 1, METRO 8, RER D;Créteil L'Échat, Créteil Pompadour, Créteil Préfecture, Créteil Université, Pointe du Lac
+92022;Chaville;20594.0;66.2;2;3;25.8;0.615;0.947;TRAIN L;TRAIN L, TRAIN N, TRAIN U;Chaville Rive Droite, Chaville Rive Gauche
+95127;Cergy;70906.0;65.9;3;2;19.4;0.485;0.949;RER A;RER A, TRAIN L;Cergy Préfecture, Cergy Saint-Christophe, Cergy le Haut
+91228;Évry-Courcouronnes;66919.0;65.6;5;2;27.9;0.429;0.93;RER D;RER D, TRAM 12;Bois Briard, Le Bras de Fer, Traité de Rome, Évry, Évry - Courcouronnes
+78650;Le Vésinet;15554.0;65.0;2;1;19.5;0.0;0.97;RER A;RER A;Le Vésinet - Le Pecq, Le Vésinet Centre
+77111;Chessy;7771.0;64.8;2;1;17.2;0.0;0.97;RER A;RER A;Marne-la-Vallée Chessy, Val d'Europe
+78311;Houilles;33983.0;64.8;1;3;33.4;0.446;0.954;RER A;RER A, TRAIN J, TRAIN L;Houilles - Carrières-sur-Seine
+94065;Rungis;5611.0;64.7;6;2;23.8;0.166;0.946;TRAM 7;RER C, TRAM 7;La Belle Épine, Place de la Logistique, Porte de Rungis, Robert Schuman / Traversière, Rungis la Fraternelle, Saarinen
+91521;Ris-Orangis;31189.0;64.7;4;2;27.9;0.429;0.93;RER D;RER D, TRAM 12;Bois de Saint-Eutrope, Grand Bourg, Orangis Bois de l'Épine, Ris-Orangis
+77291;Le Mesnil-Amelot;992.0;64.5;2;2;48.6;0.383;0.941;CDGVAL;CDGVAL, RER B;Aéroport CDG - Terminal 2 (TGV), Parc PX
+78640;Vélizy-Villacoublay;23011.0;64.4;7;1;29.8;0.0;0.953;TRAM 6;TRAM 6;Dewoitine, Inovel Parc Nord, L'Onde - Maison des Arts / Ravel, Louvois, Mairie de Vélizy, Robert Wagner, Vélizy 2 (Nord) / Europe Nord
+78361;Mantes-la-Jolie;43526.0;64.3;2;3;14.4;0.269;0.953;TRAIN J;TER NORMANDIE, TRAIN J, TRAIN N;Mantes Station, Mantes-la-Jolie
+78224;L'Étang-la-Ville;5157.0;64.3;3;2;21.0;0.451;0.941;TRAM 13;TRAIN L, TRAM 13;L'Etang - Les Sablons, L'Étang-la-Ville, Saint-Nom-la-Bretèche Forêt de Marly
+91687;Viry-Châtillon;30838.0;63.7;3;2;27.4;0.438;0.93;RER D;RER D, TRAM 12;Amédée Gordini, Coteaux de l'Orge, Viry-Châtillon
+95585;Sarcelles;59173.0;63.5;5;1;25.4;0.0;0.953;TRAM 5;TRAM 5;Garges - Sarcelles, Les Cholettes / Albert Camus, Les Flanades, Lochères, Paul Valéry
+92019;Châtenay-Malabry;35825.0;63.0;6;1;20.0;0.0;0.953;TRAM 10;TRAM 10;Cité-Jardin, Les Peintres, Malabry, Petit Châtenay, Théâtre La Piscine, Vallée aux Loups
+94046;Maisons-Alfort;56799.0;62.8;4;2;55.2;0.155;0.918;METRO 8;METRO 8, RER D;Le Vert de Maisons, Maisons-Alfort - Stade, Maisons-Alfort Les Juilliottes, École Vétérinaire de Maisons-Alfort
+78586;Sartrouville;52763.0;62.8;1;2;29.4;0.354;0.955;RER A;RER A, TRAIN L;Sartrouville
+78358;Maisons-Laffitte;23093.0;62.2;1;2;24.3;0.202;0.961;RER A;RER A, TRAIN L;Maisons-Laffitte
+92049;Montrouge;46324.0;62.0;1;1;54.7;0.0;0.973;METRO 4;METRO 4;Mairie de Montrouge
+91216;Épinay-sur-Orge;10722.0;61.7;2;2;25.3;0.475;0.932;RER C;RER C, TRAM 12;Petit-Vaux, Épinay-sur-Orge
+78498;Poissy;40983.0;61.4;1;2;14.0;0.357;0.963;RER A;RER A, TRAIN J;Poissy
+91286;Grigny;26842.0;60.9;2;2;28.0;0.429;0.93;RER D;RER D, TRAM 12;Ferme Neuve, Grigny Centre
+78621;Trappes;34689.0;60.9;1;2;13.4;0.443;0.959;TRAIN U;TRAIN N, TRAIN U;Trappes
+78517;Rambouillet;27724.0;60.9;1;2;11.9;0.498;0.956;TER CENTRE-VDL;TER CENTRE-VDL, TRAIN N;Rambouillet
+92035;La Garenne-Colombes;30197.0;60.8;2;1;34.5;0.0;0.953;TRAM 2;TRAM 2;Charlebourg, Les Fauvelles
+91027;Athis-Mons;36613.0;60.6;2;2;27.2;0.271;0.942;TRAM 7;RER C, TRAM 7;Athis-Mons, Porte de L'Essonne
+93057;Les Pavillons-sous-Bois;25804.0;60.4;2;1;33.5;0.0;0.953;TRAM 4;TRAM 4;Gargan, Les Pavillons-sous-Bois
+92060;Le Plessis-Robinson;28848.0;60.3;3;1;20.0;0.0;0.953;TRAM 10;TRAM 10;Le Hameau, Noveos, Parc des Sports
+78644;La Verrière;5994.0;60.1;1;2;12.9;0.422;0.959;TRAIN U;TRAIN N, TRAIN U;La Verrière
+77108;Chelles;54620.0;59.7;1;2;17.7;0.339;0.957;RER E;RER E, TRAIN P;Chelles - Gournay
+93046;Livry-Gargan;47228.0;59.0;4;1;17.0;0.0;0.953;TRAM 4;TRAM 4;L'Abbaye, Lycée Henri Sellier, Léon Blum, République - Marx Dormoy
+93014;Clichy-sous-Bois;29354.0;59.0;4;1;17.0;0.0;0.953;TRAM 4;TRAM 4;Clichy - Montfermeil, Clichy-sous-Bois - Mairie, Maurice Audin, Romain Rolland
+93047;Montfermeil;28703.0;58.7;3;1;16.9;0.0;0.953;TRAM 4;TRAM 4;Arboretum, Hôpital Intercommunal / Collège Pablo Picasso, Notre-Dame-des-Anges
+77420;Saint-Mard;3832.0;58.6;1;2;6.0;0.25;0.979;TRAIN K;TER HAUTS-DE-FRANCE, TRAIN K;Dammartin - Juilly - Saint-Mard
+77468;Torcy;22810.0;58.2;1;1;27.5;0.0;0.97;RER A;RER A;Torcy
+95488;Pierrelaye;10130.0;58.0;2;2;22.2;0.36;0.927;RER C;RER C, TRAIN H;Montigny - Beauchamp, Pierrelaye
+94021;Chevilly-Larue;19826.0;57.7;2;1;19.9;0.0;0.953;TRAM 7;TRAM 7;Auguste Perret / Cimetière Parisien de Thiais, Chevilly-Larue​ (Marché International​)
+92078;Villeneuve-la-Garenne;26021.0;57.7;3;1;12.4;0.0;0.953;TRAM 1;TRAM 1;Chemin des Reniers, La Noue, Mairie
+77171;Esbly;6072.0;57.5;1;2;9.5;0.274;0.963;TRAIN P;TRAIN P, TRAM 14;Esbly
+92063;Rueil-Malmaison;82874.0;57.5;1;1;24.8;0.0;0.97;RER A;RER A;Rueil-Malmaison
+93049;Neuilly-Plaisance;21941.0;57.1;1;1;22.8;0.0;0.97;RER A;RER A;Neuilly-Plaisance
+77294;Mitry-Mory;20456.0;56.7;2;2;19.2;0.234;0.938;RER B;RER B, TRAIN K;Mitry - Claye, Villeparisis - Mitry-le-Neuf
+94015;Bry-sur-Marne;18503.0;56.6;1;1;20.0;0.0;0.97;RER A;RER A;Bry-sur-Marne
+78490;Plaisir;31811.0;56.6;2;1;9.9;0.0;0.959;TRAIN N;TRAIN N;Plaisir - Grignon, Plaisir - Les Clayes
+94052;Nogent-sur-Marne;32455.0;56.2;1;1;19.6;0.0;0.97;RER A;RER A;Nogent-sur-Marne
+94042;Joinville-le-Pont;20525.0;56.2;1;1;19.6;0.0;0.97;RER A;RER A;Joinville-le-Pont
+92046;Malakoff;30557.0;55.7;2;1;67.4;0.0;0.944;METRO 13;METRO 13;Malakoff - Plateau De Vanves, Malakoff - Étienne Dolet
+94071;Sucy-en-Brie;27764.0;55.5;1;1;19.1;0.0;0.97;RER A;RER A;Sucy - Bonneuil
+77258;Lognes;15074.0;55.5;1;1;19.5;0.0;0.97;RER A;RER A;Lognes
+78146;Chatou;30598.0;55.5;1;1;19.5;0.0;0.97;RER A;RER A;Châtou - Croissy
+77337;Noisiel;16053.0;55.5;1;1;19.5;0.0;0.97;RER A;RER A;Noisiel
+77305;Montereau-Fault-Yonne;22279.0;55.4;1;2;6.0;0.164;0.967;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Montereau
+93013;Le Bourget;15925.0;55.1;1;2;57.5;0.417;0.936;RER B;RER B, TRAM 11;Le Bourget
+78423;Montigny-le-Bretonneux;32465.0;55.1;1;4;22.2;0.664;0.944;TRAIN U;RER C, TER CENTRE-VDL, TRAIN N, TRAIN U;Saint-Quentin en Yvelines - Montigny-le-Bretonneux
+93073;Tremblay-en-France;38348.0;55.0;1;2;48.6;0.383;0.941;CDGVAL;CDGVAL, RER B;Aéroport CDG 1 (Terminal 3)
+94004;Boissy-Saint-Léger;17325.0;54.9;1;1;19.1;0.0;0.97;RER A;RER A;Boissy-Saint-Léger
+77470;Tournan-en-Brie;8274.0;54.9;1;2;8.5;0.294;0.956;RER E;RER E, TRAIN P;Tournan
+95500;Pontoise;31970.0;54.9;1;3;26.8;0.572;0.941;TRAIN H;RER C, TRAIN H, TRAIN J;Pontoise
+77058;Bussy-Saint-Georges;27498.0;54.8;1;1;15.2;0.0;0.97;RER A;RER A;Bussy-Saint-Georges
+91345;Longjumeau;21996.0;54.8;2;1;12.0;0.0;0.953;TRAM 12;TRAM 12;Gravigny-Balizy, Longjumeau
+93005;Aulnay-sous-Bois;87599.0;54.7;1;3;54.5;0.385;0.937;RER B;RER B, TRAIN K, TRAM 4;Aulnay-sous-Bois
+95018;Argenteuil;106130.0;54.5;2;1;31.4;0.0;0.951;TRAIN J;TRAIN J;Argenteuil, Val d'Argenteuil
+93045;Les Lilas;23843.0;54.5;1;1;53.0;0.0;0.954;METRO 11;METRO 11;Mairie des Lilas
+78005;Achères;22241.0;54.1;1;2;19.4;0.485;0.949;RER A;RER A, TRAIN L;Achères Ville
+95450;Neuville-sur-Oise;2058.0;54.1;1;2;19.4;0.485;0.949;RER A;RER A, TRAIN L;Neuville Université
+77037;Bois-le-Roi;6072.0;53.9;1;2;5.5;0.177;0.967;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Bois-le-Roi
+77014;Avon;13651.0;53.9;1;2;5.5;0.177;0.967;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Fontainebleau - Avon
+78217;Épône;7031.0;53.3;1;2;7.0;0.35;0.954;TRAIN J;TRAIN J, TRAIN N;Épône - Mézières
+91534;Saclay;4437.0;53.2;1;1;54.7;0.0;0.953;METRO 18;METRO 18;Christ de Saclay
+95203;Eaubonne;26211.0;52.6;1;2;34.1;0.417;0.935;TRAIN H;RER C, TRAIN H;Ermont - Eaubonne
+77316;Moret-Loing-et-Orvanne;12810.0;52.4;1;2;5.1;0.095;0.968;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Moret - Veneux-les-Sablons
+93032;Gagny;42313.0;52.3;2;1;11.7;0.0;0.952;RER E;RER E;Gagny, Le Chénay Gagny
+95197;Deuil-la-Barre;23099.0;51.4;2;1;11.9;0.0;0.951;TRAIN H;TRAIN H;Deuil - Montmagny, La Barre Ormesson
+78322;Jouy-en-Josas;7981.0;51.3;2;1;7.9;0.0;0.953;TRAIN V;TRAIN V;Jouy-en-Josas, Petit Jouy Les Loges
+95063;Bezons;36434.0;51.3;1;1;34.7;0.0;0.953;TRAM 2;TRAM 2;Pont de Bezons
+91064;Bièvres;4686.0;51.3;2;1;7.9;0.0;0.953;TRAIN V;TRAIN V;Bièvres, Vauboyen
+91326;Juvisy-sur-Orge;19292.0;51.2;1;2;48.5;0.482;0.913;RER C;RER C, RER D;Juvisy
+77079;Champagne-sur-Seine;6497.0;50.8;1;2;4.0;0.25;0.966;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Champagne-sur-Seine
+77284;Meaux;56905.0;50.6;1;1;12.0;0.0;0.967;TRAIN P;TRAIN P;Meaux
+77431;Saint-Pierre-lès-Nemours;5401.0;50.6;1;2;3.5;0.286;0.965;TRAIN R;TER CENTRE-VDL, TRAIN R;Nemours - Saint-Pierre
+77282;Mauregard;341.0;50.5;1;1;30.0;0.0;0.953;CDGVAL;CDGVAL;NC
+95527;Roissy-en-France;2674.0;50.5;1;1;30.0;0.0;0.953;CDGVAL;CDGVAL;NC
+93072;Stains;41388.0;50.1;1;1;24.0;0.0;0.953;TRAM 11;TRAM 11;Stains la Cerisaie
+94018;Charenton-le-Pont;28830.0;49.6;2;1;46.9;0.0;0.919;METRO 8;METRO 8;Charenton - Écoles, Liberté
+94016;Cachan;31103.0;49.5;2;1;37.4;0.0;0.923;RER B;RER B;Arcueil - Cachan, Bagneux
+93064;Rosny-sous-Bois;47180.0;49.4;2;1;7.9;0.0;0.952;RER E;RER E;Rosny Bois Perrier, Rosny-sous-Bois
+77288;Melun;45995.0;49.4;1;3;26.4;0.322;0.931;RER D;RER D, TER BOURGOGNE-FC, TRAIN R;Melun
+91174;Corbeil-Essonnes;54471.0;49.1;3;1;31.2;0.0;0.913;RER D;RER D;Corbeil-Essonnes, Essonnes Robinson, Moulin Galant
+77260;Longueville;1804.0;49.1;1;2;3.1;0.194;0.964;TRAIN P;TER GRAND-EST, TRAIN P;Longueville
+77183;La Ferté-sous-Jouarre;10254.0;49.0;1;2;3.5;0.143;0.965;TRAIN P;TER GRAND-EST, TRAIN P;La Ferté-sous-Jouarre
+95252;Franconville;37754.0;48.3;1;2;22.7;0.352;0.926;RER C;RER C, TRAIN H;Franconville - Le Plessis-Bouchard
+77419;Saint-Mammès;3162.0;48.2;1;2;2.5;0.194;0.967;TRAIN R;TER BOURGOGNE-FC, TRAIN R;Saint-Mammès
+93078;Villepinte;41470.0;47.8;3;1;18.7;0.0;0.923;RER B;RER B;Parc des Expositions, Vert Galant, Villepinte
+91223;Étampes;26857.0;47.6;2;2;6.8;0.209;0.921;RER C;RER C, TER CENTRE-VDL;Saint-Martin d'Étampes, Étampe, Étampes
+91200;Dourdan;11415.0;46.7;2;2;6.4;0.159;0.919;RER C;RER C, TER CENTRE-VDL;Dourdan, Dourdan la Forêt
+93006;Bagnolet;43086.0;46.6;1;1;54.8;0.0;0.949;METRO 3;METRO 3;Gallieni
+91434;Morsang-sur-Orge;21667.0;46.5;1;1;12.0;0.0;0.953;TRAM 12;TRAM 12;Parc du Château
+78642;Verneuil-sur-Seine;16280.0;46.2;2;1;8.0;0.0;0.951;TRAIN J;TRAIN J;Les Clairières de Verneuil, Vernouillet - Verneuil
+94078;Villeneuve-Saint-Georges;36221.0;46.0;2;1;27.4;0.0;0.913;RER D;RER D;Villeneuve Triage, Villeneuve-Saint-Georges
+95607;Taverny;27593.0;45.9;2;1;6.0;0.0;0.951;TRAIN H;TRAIN H;Taverny, Vaucelles
+93039;L'Île-Saint-Denis;8696.0;45.7;1;1;12.3;0.0;0.953;TRAM 1;TRAM 1;L'Ile-Saint-Denis (Mairie)
+92075;Vanves;28622.0;45.6;1;1;7.9;0.0;0.959;TRAIN N;TRAIN N;Vanves - Malakoff
+77464;Thorigny-sur-Marne;10440.0;45.3;1;1;6.0;0.0;0.967;TRAIN P;TRAIN P;Lagny - Thorigny
+77475;Trilport;5146.0;45.3;1;1;6.0;0.0;0.967;TRAIN P;TRAIN P;Trilport
+77479;Vaires-sur-Marne;13931.0;45.3;1;1;6.0;0.0;0.967;TRAIN P;TRAIN P;Vaires - Torcy
+78015;Andrésy;13834.0;45.0;2;1;6.0;0.0;0.951;TRAIN J;TRAIN J;Andrésy, Maurecourt
+78043;Bailly;3731.0;44.7;1;1;11.5;0.0;0.953;TRAM 13;TRAM 13;Bailly
+91161;Chilly-Mazarin;20443.0;44.7;1;1;11.5;0.0;0.953;TRAM 12;TRAM 12;Chilly-Mazarin
+91136;Champlan;2615.0;44.7;1;1;11.5;0.0;0.953;TRAM 12;TRAM 12;Champlan
+78455;Noisy-le-Roi;7713.0;44.7;1;1;11.5;0.0;0.953;TRAM 13;TRAM 13;Noisy-le-Roi
+78367;Mareil-Marly;4141.0;44.7;1;1;11.5;0.0;0.953;TRAM 13;TRAM 13;Mareil-Marly
+78531;Rosny-sur-Seine;7328.0;44.4;1;2;2.5;0.398;0.952;TRAIN J;TER NORMANDIE, TRAIN J;Rosny-sur-Seine
+77462;Thieux;778.0;44.3;1;1;3.0;0.0;0.987;TRAIN K;TRAIN K;Thieux - Nantouillet
+77123;Compans;754.0;44.3;1;1;3.0;0.0;0.987;TRAIN K;TRAIN K;Compans
+78089;Bonnières-sur-Seine;5064.0;44.1;1;2;2.5;0.4;0.952;TRAIN J;TER NORMANDIE, TRAIN J;Bonnières
+95210;Enghien-les-Bains;11432.0;43.9;1;1;19.9;0.0;0.951;TRAIN H;TRAIN H;Enghien-les-Bains
+94079;Villiers-sur-Marne;33162.0;43.8;1;1;13.8;0.0;0.952;RER E;RER E;Villiers-sur-Marne - Le Plessis-Trévise
+94043;Le Kremlin-Bicêtre;24110.0;43.5;1;1;29.7;0.0;0.949;METRO 7;METRO 7;Le Kremlin - Bicêtre
+95539;Saint-Brice-sous-Forêt;15063.0;43.3;1;1;15.8;0.0;0.951;TRAIN H;TRAIN H;Sarcelles - Saint-Brice
+95039;Auvers-sur-Oise;6863.0;42.8;2;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Auvers-sur-Oise, Chaponval
+77096;Chartrettes;2633.0;42.8;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Chartrettes
+92024;Clichy;64410.0;42.8;1;1;34.4;0.0;0.944;METRO 13;METRO 13;Mairie de Clichy
+78165;Les Clayes-sous-Bois;16804.0;42.8;1;1;5.9;0.0;0.959;TRAIN N;TRAIN N;Villepreux - Les Clayes
+78242;Fontenay-le-Fleury;13680.0;42.8;1;1;5.9;0.0;0.959;TRAIN N;TRAIN N;Fontenay-le-Fleury
+95280;Goussainville;31301.0;42.5;2;1;15.0;0.0;0.913;RER D;RER D;Goussainville, Les Noues
+78126;La Celle-Saint-Cloud;20460.0;42.5;2;1;9.9;0.0;0.927;TRAIN L;TRAIN L;Bougival, La Celle-Saint-Cloud
+77255;Livry-sur-Seine;2226.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Livry-sur-Seine
+77188;Fontaine-le-Port;1025.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Fontaine-le-Port
+77226;Héricy;2507.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Héricy
+77494;Vernou-la-Celle-sur-Seine;2630.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Vernou-sur-Seine
+77533;Vulaines-sur-Seine;2730.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;Vulaines-sur-Seine - Samoreau
+77210;La Grande-Paroisse;2893.0;42.4;1;1;3.0;0.0;0.97;TRAIN R;TRAIN R;La Grande-Paroisse
+77142;Crécy-la-Chapelle;4973.0;42.0;2;1;2.2;0.0;0.953;TRAM 14;TRAM 14;Crécy-la-Chapelle, Villiers Montbarbin
+77084;Changis-sur-Marne;1335.0;41.8;1;1;3.5;0.0;0.967;TRAIN P;TRAIN P;Changis - Saint-Jean
+95563;Saint-Leu-la-Forêt;16138.0;41.8;1;1;11.9;0.0;0.951;TRAIN H;TRAIN H;Saint-Leu-la-Forêt
+91312;Igny;10833.0;41.7;1;1;7.9;0.0;0.953;TRAIN V;TRAIN V;Igny
+95120;Butry-sur-Oise;2252.0;41.6;1;1;11.5;0.0;0.951;TRAIN H;TRAIN H;Valmondois
+77186;Fontainebleau;15583.0;41.5;1;1;2.5;0.0;0.97;TRAIN R;TRAIN R;Thomery
+77458;Souppes-sur-Loing;4952.0;41.5;1;1;2.5;0.0;0.97;TRAIN R;TRAIN R;Souppes - Château-Landon
+78168;Coignières;4321.0;41.4;1;1;5.4;0.0;0.959;TRAIN N;TRAIN N;Coignières
+92071;Sceaux;20884.0;41.4;2;1;9.8;0.0;0.923;RER B;RER B;Robinson, Sceaux
+78486;Le Perray-en-Yvelines;6480.0;41.4;1;1;5.4;0.0;0.959;TRAIN N;TRAIN N;Le Perray
+78220;Les Essarts-le-Roi;6831.0;41.4;1;1;5.4;0.0;0.959;TRAIN N;TRAIN N;Les Essarts-le-Roi
+95487;Persan;14359.0;41.2;1;1;12.0;0.0;0.951;TRAIN H;TRAIN H;Persan - Beaumont
+91122;Bures-sur-Yvette;9548.0;41.2;2;1;9.3;0.0;0.923;RER B;RER B;Bures-sur-Yvette, La Hacquinière
+91272;Gif-sur-Yvette;22544.0;41.1;2;1;9.4;0.0;0.923;RER B;RER B;Courcelle sur Yvette, Gif-sur-Yvette
+92009;Bois-Colombes;28909.0;40.7;1;1;12.0;0.0;0.951;TRAIN J;TRAIN J;Bois-Colombes
+95582;Sannois;26924.0;40.7;1;1;12.0;0.0;0.951;TRAIN J;TRAIN J;Sannois
+95176;Cormeilles-en-Parisis;27292.0;40.4;1;1;14.0;0.0;0.951;TRAIN J;TRAIN J;Cormeilles-en-Parisis
+95306;Herblay-sur-Seine;31779.0;40.4;1;1;14.0;0.0;0.951;TRAIN J;TRAIN J;Herblay
+77397;Saâcy-sur-Marne;1878.0;40.3;1;1;3.0;0.0;0.967;TRAIN P;TRAIN P;Nanteuil - Saâcy
+77493;Verneuil-l'Étang;3223.0;40.3;1;1;3.0;0.0;0.967;TRAIN P;TRAIN P;Verneuil -l'Étang
+77327;Nangis;8867.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Nangis
+77318;Mortcerf;1400.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Mortcerf
+77229;La Houssaye-en-Brie;1731.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Marles-en-Brie
+77317;Mormant;5282.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Mormant
+77231;Isles-les-Meldeuses;760.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Isles - Armentières - Congis
+77257;Lizy-sur-Ourcq;3627.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Lizy-sur-Ourcq
+77148;Crouy-sur-Ourcq;1811.0;40.2;1;1;2.5;0.0;0.967;TRAIN P;TRAIN P;Crouy-sur-Ourcq
+77048;Bourron-Marlotte;2774.0;40.1;1;1;2.0;0.0;0.97;TRAIN R;TRAIN R;Bourron-Marlotte - Grez
+77016;Bagneaux-sur-Loing;1570.0;40.1;1;1;2.0;0.0;0.97;TRAIN R;TRAIN R;Bagneaux-sur-Loing
+77312;Montigny-sur-Loing;2669.0;40.1;1;1;2.0;0.0;0.97;TRAIN R;TRAIN R;Montigny-sur-Loing
+94037;Gentilly;19963.0;39.8;1;1;37.3;0.0;0.923;RER B;RER B;Gentilly
+78389;Méré;1731.0;39.8;1;1;4.5;0.0;0.959;TRAIN N;TRAIN N;Montfort-l'Amaury - Méré
+78310;Houdan;3721.0;39.8;1;1;4.5;0.0;0.959;TRAIN N;TRAIN N;Houdan
+94003;Arcueil;22200.0;39.7;1;1;37.0;0.0;0.923;RER B;RER B;Laplace
+95430;Montsoult;4023.0;39.5;1;1;8.1;0.0;0.951;TRAIN H;TRAIN H;Montsoult - Maffliers
+92014;Bourg-la-Reine;21019.0;39.5;1;1;37.3;0.0;0.923;RER B;RER B;Bourg-la-Reine
+95091;Bouffémont;6593.0;39.4;1;1;8.1;0.0;0.951;TRAIN H;TRAIN H;Bouffémont - Moisselles
+95199;Domont;16065.0;39.4;1;1;8.1;0.0;0.951;TRAIN H;TRAIN H;Domont
+78465;Orgerus;2489.0;39.4;1;1;3.5;0.0;0.959;TRAIN N;TRAIN N;Orgerus - Béhoust
+78683;Villiers-Saint-Frédéric;3395.0;39.4;1;1;3.5;0.0;0.959;TRAIN N;TRAIN N;Villiers - Neauphle - Pontchartrain
+78605;Tacoignières;1219.0;39.4;1;1;3.5;0.0;0.959;TRAIN N;TRAIN N;Tacoignières - Richebourg
+78265;Garancières;2621.0;39.4;1;1;3.5;0.0;0.959;TRAIN N;TRAIN N;Garancières - La Queue
+95229;Ézanville;9858.0;39.4;1;1;8.1;0.0;0.951;TRAIN H;TRAIN H;Écouen - Ézanville
+93007;Le Blanc-Mesnil;62376.0;39.3;1;1;34.0;0.0;0.923;RER B;RER B;Le Blanc-Mesnil
+93029;Drancy;72390.0;39.2;1;1;33.6;0.0;0.923;RER B;RER B;Drancy
+94017;Champigny-sur-Marne;78072.0;39.2;1;1;7.8;0.0;0.952;RER E;RER E;Les Boullereaux Champigny
+94058;Le Perreux-sur-Marne;35260.0;39.2;1;1;7.8;0.0;0.952;RER E;RER E;Nogent - Le Perreux
+95480;Parmain;5655.0;39.1;1;1;8.0;0.0;0.951;TRAIN H;TRAIN H;L'Isle-Adam - Parmain
+95134;Champagne-sur-Oise;5036.0;39.1;1;1;8.0;0.0;0.951;TRAIN H;TRAIN H;Champagne-sur-Oise
+77368;Poigny;501.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Champbenoist Poigny
+77379;Provins;11632.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Provins
+77219;Guérard;2688.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Guérard - La Celle-sur-Morin
+77320;Mouroux;5810.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Mouroux
+77404;Sainte-Colombe;1781.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Sainte-Colombe Septveilles
+77131;Coulommiers;16374.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Coulommiers
+77371;Pommeuse;3049.0;38.9;1;1;2.0;0.0;0.967;TRAIN P;TRAIN P;Faremoutiers - Pommeuse
+95598;Soisy-sous-Montmorency;18008.0;38.7;1;1;7.9;0.0;0.951;TRAIN H;TRAIN H;Champ de Courses d'Enghien
+91179;Le Coudray-Montceaux;4801.0;38.1;2;1;7.9;0.0;0.913;RER D;RER D;Le Coudray-Montceaux, Le Plessis Chenet
+95288;Groslay;8453.0;38.1;1;1;7.8;0.0;0.951;TRAIN H;TRAIN H;Groslay
+77390;Roissy-en-Brie;23229.0;38.0;1;1;6.0;0.0;0.952;RER E;RER E;Roissy-en-Brie
+77350;Ozoir-la-Ferrière;21238.0;38.0;1;1;6.0;0.0;0.952;RER E;RER E;Ozoir-la-Ferrière
+77169;Émerainville;7690.0;38.0;1;1;6.0;0.0;0.952;RER E;RER E;Émerainville - Pontault-Combault
+77215;Gretz-Armainvilliers;8825.0;37.7;1;1;6.0;0.0;0.952;RER E;RER E;Gretz-Armainvilliers
+77407;Saint-Fargeau-Ponthierry;15724.0;37.3;2;1;7.4;0.0;0.913;RER D;RER D;Ponthierry - Pringy, Saint-Fargeau
+78440;Les Mureaux;34632.0;36.7;1;1;8.0;0.0;0.951;TRAIN J;TRAIN J;Les Mureaux
+78451;Nézel;1139.0;36.6;1;1;2.5;0.0;0.959;TRAIN N;TRAIN N;Nézel - Aulnay
+78380;Maule;6083.0;36.6;1;1;2.5;0.0;0.959;TRAIN N;TRAIN N;Maule
+78062;Beynes;7704.0;36.6;1;1;2.5;0.0;0.959;TRAIN N;TRAIN N;Beynes
+78368;Mareil-sur-Mauldre;1776.0;36.6;1;1;2.5;0.0;0.959;TRAIN N;TRAIN N;Mareil-sur-Mauldre
+94002;Alfortville;45531.0;36.5;1;1;24.1;0.0;0.913;RER D;RER D;Maisons-Alfort - Alfortville
+78269;Gazeran;1492.0;36.3;1;1;3.0;0.0;0.953;TER CENTRE-VDL;TER CENTRE-VDL;Gazeran
+95268;Garges-lès-Gonesse;41791.0;36.1;1;1;22.4;0.0;0.913;RER D;RER D;Garges - Sarcelles
+95019;Arnouville;15023.0;36.1;1;1;22.4;0.0;0.913;RER D;RER D;Villiers-le-Bel - Gonesse - Arnouville
+95256;Frépillon;3317.0;36.0;1;1;6.0;0.0;0.951;TRAIN H;TRAIN H;Frépillon
+95392;Mériel;5347.0;36.0;1;1;6.0;0.0;0.951;TRAIN H;TRAIN H;Mériel
+95060;Bessancourt;8869.0;36.0;1;1;6.0;0.0;0.951;TRAIN H;TRAIN H;Bessancourt
+95394;Méry-sur-Oise;9983.0;36.0;1;1;6.0;0.0;0.951;TRAIN H;TRAIN H;Méry-sur-Oise
+78327;Juziers;4065.0;35.5;1;1;6.0;0.0;0.951;TRAIN J;TRAIN J;Juziers
+95218;Éragny-sur-Oise;18436.0;35.5;1;1;6.0;0.0;0.951;TRAIN J;TRAIN J;Éragny - Neuville
+95257;La Frette-sur-Seine;4570.0;35.1;1;1;6.5;0.0;0.951;TRAIN J;TRAIN J;La Frette - Montigny
+91330;Lardy;5530.0;33.8;2;1;5.9;0.0;0.913;RER C;RER C;Bouray, Lardy
+95652;Viarmes;5558.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Viarmes
+95660;Villaines-sous-Bois;778.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Villaines
+95056;Belloy-en-France;2250.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Belloy - Saint-Martin
+95352;Luzarches;5008.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Luzarches
+95504;Presles;4017.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Presles - Courcelles
+95452;Nointel;903.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Nointel - Mours
+95594;Seugy;1044.0;33.3;1;1;4.0;0.0;0.951;TRAIN H;TRAIN H;Seugy
+91657;Vigneux-sur-Seine;31466.0;33.2;1;1;16.0;0.0;0.913;RER D;RER D;Vigneux-sur-Seine
+78638;Vaux-sur-Seine;5202.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Vaux-sur-Seine
+78624;Triel-sur-Seine;12206.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Triel-sur-Seine
+78267;Gargenville;7869.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Gargenville
+78314;Issou;4060.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Issou - Porcheville
+78299;Hardricourt;2599.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Meulan - Hardricourt
+78335;Limay;17885.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Limay
+78401;Meulan-en-Yvelines;8950.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Thun le Paradis
+91105;Breuillet;9157.0;33.0;2;1;5.9;0.0;0.913;RER C;RER C;Breuillet - Bruyères-le-Châtel, Breuillet Village
+78138;Chanteloup-les-Vignes;10861.0;33.0;1;1;5.5;0.0;0.951;TRAIN J;TRAIN J;Chanteloup-les-Vignes
+78107;Bréval;2151.0;33.0;1;1;2.0;0.0;0.953;TER NORMANDIE;TER NORMANDIE;Bréval
+92033;Garches;17743.0;32.9;1;1;9.9;0.0;0.927;TRAIN L;TRAIN L;Garches - Marnes-la-Coquette
+92076;Vaucresson;8432.0;32.9;1;1;9.9;0.0;0.927;TRAIN L;TRAIN L;Vaucresson
+77413;Saint-Germain-sur-Morin;3902.0;32.4;1;1;2.2;0.0;0.953;TRAM 14;TRAM 14;Couilly - Saint-Germain - Quincy
+91016;Angerville;4428.0;32.4;1;1;1.4;0.0;0.953;TER CENTRE-VDL;TER CENTRE-VDL;Angerville
+77315;Montry;3945.0;32.4;1;1;2.2;0.0;0.953;TRAM 14;TRAM 14;Montry - Condé
+78029;Aubergenville;12723.0;32.4;1;1;4.5;0.0;0.951;TRAIN J;TRAIN J;Aubergenville Élisabethville
+95078;Boissy-l'Aillerie;2120.0;32.4;1;1;4.5;0.0;0.951;TRAIN J;TRAIN J;Boissy-l'Aillerie
+91414;Monnerville;376.0;32.3;1;1;0.9;0.0;0.953;TER CENTRE-VDL;TER CENTRE-VDL;Monnerville
+91294;Guillerval;808.0;32.3;1;1;0.9;0.0;0.953;TER CENTRE-VDL;TER CENTRE-VDL;Guillerval
+78372;Marly-le-Roi;16756.0;32.3;1;1;9.5;0.0;0.927;TRAIN L;TRAIN L;Marly-le-Roi
+78350;Louveciennes;7990.0;32.3;1;1;9.5;0.0;0.927;TRAIN L;TRAIN L;Louveciennes
+91103;Brétigny-sur-Orge;26658.0;31.9;1;1;17.2;0.0;0.913;RER C;RER C;Brétigny
+95476;Osny;17954.0;31.6;1;1;5.0;0.0;0.951;TRAIN J;TRAIN J;Osny
+95116;Bruyères-sur-Oise;4921.0;31.5;1;1;3.0;0.0;0.951;TRAIN H;TRAIN H;Bruyères-sur-Oise
+78672;Villennes-sur-Seine;5952.0;31.5;1;1;4.9;0.0;0.951;TRAIN J;TRAIN J;Villennes-sur-Seine
+92032;Fontenay-aux-Roses;24070.0;31.4;1;1;9.4;0.0;0.923;RER B;RER B;Fontenay-aux-Roses
+78575;Saint-Rémy-lès-Chevreuse;7747.0;31.4;1;1;9.3;0.0;0.923;RER B;RER B;Saint-Rémy-lès-Chevreuse
+95555;Saint-Gratien;21336.0;31.2;1;1;14.2;0.0;0.913;RER C;RER C;Saint-Gratien
+91589;Savigny-sur-Orge;37601.0;30.9;1;1;13.8;0.0;0.913;RER C;RER C;Savigny-sur-Orge
+77122;Combs-la-Ville;23350.0;30.7;1;1;11.0;0.0;0.913;RER D;RER D;Combs-la-Ville - Quincy
+77445;Savigny-le-Temple;31148.0;30.7;1;1;11.0;0.0;0.913;RER D;RER D;Savigny-le-Temple - Nandy
+77251;Lieusaint;14017.0;30.7;1;1;11.0;0.0;0.913;RER D;RER D;Lieusaint - Moissy
+91097;Boussy-Saint-Antoine;8097.0;30.7;1;1;11.0;0.0;0.913;RER D;RER D;Boussy-Saint-Antoine
+77285;Le Mée-sur-Seine;19527.0;30.5;1;1;10.5;0.0;0.913;RER D;RER D;Le Mée
+77067;Cesson;11222.0;30.5;1;1;10.5;0.0;0.913;RER D;RER D;Cesson
+91114;Brunoy;25643.0;30.0;1;1;11.5;0.0;0.913;RER D;RER D;Brunoy
+91691;Yerres;27906.0;30.0;1;1;11.5;0.0;0.913;RER D;RER D;Yerres
+91421;Montgeron;24022.0;30.0;1;1;11.5;0.0;0.913;RER D;RER D;Montgeron - Crosne
+95250;Fosses;10570.0;28.9;1;1;8.0;0.0;0.913;RER D;RER D;Survilliers - Fosses
+91659;Villabé;5830.0;28.5;1;1;7.9;0.0;0.913;RER D;RER D;Villabé
+91570;Saint-Michel-sur-Orge;21776.0;28.5;1;1;9.8;0.0;0.913;RER C;RER C;Saint-Michel-sur-Orge
+91549;Sainte-Geneviève-des-Bois;35438.0;28.0;1;1;9.3;0.0;0.913;RER C;RER C;Sainte-Geneviève-des-Bois
+95351;Louvres;12560.0;27.8;1;1;7.5;0.0;0.913;RER D;RER D;Louvres
+77152;Dammarie-les-Lys;23559.0;27.7;1;1;7.4;0.0;0.913;RER D;RER D;Vosves
+95584;Santeuil;658.0;27.7;1;1;1.5;0.0;0.951;TRAIN J;TRAIN J;Santeuil - Le Perchay
+95422;Montgeroult;361.0;27.7;1;1;1.5;0.0;0.951;TRAIN J;TRAIN J;Montgeroult - Courcelles
+77040;Boissise-le-Roi;3941.0;27.7;1;1;7.4;0.0;0.913;RER D;RER D;Boissise-le-Roi
+95142;Chars;2006.0;27.3;1;1;2.0;0.0;0.951;TRAIN J;TRAIN J;Chars
+95625;Us;1374.0;27.3;1;1;2.0;0.0;0.951;TRAIN J;TRAIN J;Us
+94001;Ablon-sur-Seine;5988.0;26.7;1;1;7.9;0.0;0.913;RER C;RER C;Ablon
+94077;Villeneuve-le-Roi;21000.0;26.7;1;1;7.9;0.0;0.913;RER C;RER C;Villeneuve-le-Roi
+91045;Ballancourt-sur-Essonne;8191.0;26.0;1;1;6.0;0.0;0.913;RER D;RER D;Ballancourt
+91386;Mennecy;16433.0;26.0;1;1;6.0;0.0;0.913;RER D;RER D;Mennecy
+91047;Baulne;1448.0;24.7;1;1;5.5;0.0;0.913;RER D;RER D;La Ferté-Alais
+91099;Boutigny-sur-Essonne;3146.0;24.7;1;1;5.5;0.0;0.913;RER D;RER D;Boutigny
+91359;Maisse;2797.0;24.7;1;1;5.5;0.0;0.913;RER D;RER D;Maisse
+91376;Marolles-en-Hurepoix;5708.0;24.2;1;1;5.9;0.0;0.913;RER C;RER C;Marolles-en-Hurepoix
+91207;Égly;7166.0;24.1;1;1;5.9;0.0;0.913;RER C;RER C;Égly
+91069;Boigneville;369.0;23.9;1;1;5.5;0.0;0.913;RER D;RER D;Boigneville
+91121;Buno-Bonnevaux;527.0;23.5;1;1;4.5;0.0;0.913;RER D;RER D;Buno - Gironville
+91593;Sermaise;1617.0;22.5;1;1;5.4;0.0;0.913;RER C;RER C;Sermaise
+91540;Saint-Chéron;5132.0;22.5;1;1;5.4;0.0;0.913;RER C;RER C;Saint-Chéron
+91021;Arpajon;11698.0;22.1;1;1;5.4;0.0;0.913;RER C;RER C;Arpajon
+91226;Étréchy;6986.0;22.1;1;1;5.4;0.0;0.913;RER C;RER C;Étréchy
+91132;Chamarande;1089.0;22.1;1;1;5.4;0.0;0.913;RER C;RER C;Chamarande
+91457;La Norville;4268.0;22.1;1;1;5.4;0.0;0.913;RER C;RER C;La Norville - Saint-Germain-lès-Arpajon
+77006;Arbonne-la-Forêt;1021.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77005;Annet-sur-Marne;3408.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77004;Andrezel;336.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77001;Achères-la-Forêt;1191.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77013;Aulnoy;362.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77338;Noisy-Rudignon;580.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77339;Noisy-sur-École;1797.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77340;Nonville;591.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77341;Noyen-sur-Seine;369.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77158;Diant;194.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77159;Donnemarie-Dontilly;2706.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77161;Dormelles;816.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95651;Vétheuil;849.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77002;Amillis;830.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77012;Augers-en-Brie;265.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77021;Barbey;153.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77330;Nanteuil-lès-Meaux;7308.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77331;Nanteuil-sur-Marne;406.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77332;Nantouillet;302.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77333;Nemours;12889.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77301;Montceaux-lès-Provins;320.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77302;Moncourt-Fromonville;1891.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77373;Pontault-Combault;39096.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77374;Pontcarré;2136.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77376;Précy-sur-Marne;747.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77377;Presles-en-Brie;2369.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77378;Pringy;3864.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77380;Puisieux;317.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77381;Quiers;650.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77382;Quincy-Voisins;5547.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77383;Rampillon;836.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77384;Réau;2127.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77385;Rebais;2294.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77386;Recloses;633.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77387;Remauville;449.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77354;Pamfou;983.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77355;Paroy;187.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77391;Rouilly;496.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77392;Rouvres;1038.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77393;Rozay-en-Brie;2860.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77394;Rubelles;3537.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77395;Rumont;125.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77396;Rupéreux;106.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77398;Sablonnières;791.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77400;Saint-Augustin;1888.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77401;Sainte-Aulde;706.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77402;Saint-Barthélemy;335.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77403;Saint-Brice;819.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77372;Pomponne;4215.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77406;Saint-Denis-lès-Rebais;966.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77408;Saint-Fiacre;523.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77409;Saint-Germain-Laval;2888.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77410;Saint-Germain-Laxis;742.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77411;Saint-Germain-sous-Doue;549.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77412;Saint-Germain-sur-École;365.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77414;Saint-Hilliers;474.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77415;Saint-Jean-les-Deux-Jumeaux;1298.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77416;Saint-Just-en-Brie;265.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77417;Saint-Léger;244.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77418;Saint-Loup-de-Naud;848.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77421;Saint-Mars-Vieux-Maisons;244.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77388;Reuil-en-Brie;798.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77389;La Rochette;3932.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77201;Gastins;741.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77202;La Genevraye;840.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77203;Germigny-l'Évêque;1352.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77204;Germigny-sous-Coulombs;201.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77205;Gesvres-le-Chapitre;145.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77206;Giremoutiers;188.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77207;Gironville;166.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77208;Gouaix;1299.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77432;Saint-Rémy-de-la-Vanne;985.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77433;Beautheil-Saints;2093.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77434;Saint-Sauveur-lès-Bray;350.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77435;Saint-Sauveur-sur-École;1125.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77436;Saint-Siméon;883.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77437;Saint-Soupplets;3542.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77438;Saint-Thibault-des-Vignes;6831.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77405;Saint-Cyr-sur-Morin;1976.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77423;Saint-Martin-des-Champs;661.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77424;Saint-Martin-du-Boschet;257.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77425;Saint-Martin-en-Bière;746.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77426;Saint-Méry;334.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77427;Saint-Mesmes;579.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77428;Saint-Ouen-en-Brie;837.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77429;Saint-Ouen-sur-Morin;529.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77430;Saint-Pathus;6479.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77227;Hermé;647.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77228;Hondevilliers;256.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77230;Ichy;157.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77232;Isles-lès-Villenoy;1129.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77200;Garentreville;123.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77439;Salins;1165.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77440;Sammeron;1178.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77441;Samois-sur-Seine;2126.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77442;Samoreau;2384.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77443;Sancy;401.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77444;Sancy-lès-Provins;339.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77446;Savins;617.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77447;Seine-Port;1742.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77448;Sept-Sorts;616.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77449;Serris;10326.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77450;Servon;3565.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77451;Signy-Signets;638.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77452;Sigy;66.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77453;Sivry-Courtry;1124.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77454;Sognolles-en-Montois;371.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77485;Le Vaudoué;731.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77486;Vaudoy-en-Brie;872.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77487;Vaux-le-Pénil;11474.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77455;Soignolles-en-Brie;2021.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77456;Soisy-Bouy;850.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77457;Solers;1336.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77459;Sourdun;1541.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77460;Tancrou;340.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77461;Thénisy;297.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77463;Thomery;3384.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77465;Thoury-Férottes;649.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77466;Tigeaux;421.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77467;La Tombe;208.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77469;Touquin;1253.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77471;Tousson;334.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77505;Villemareuil;386.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77506;Villemer;759.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77507;Villenauxe-la-Petite;453.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77508;Villeneuve-le-Comte;1872.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77509;Villeneuve-les-Bordes;610.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77472;La Trétoire;459.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77473;Treuzy-Levelay;458.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77474;Trilbardou;700.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77476;Trocy-en-Multien;233.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77477;Ury;882.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77478;Ussy-sur-Marne;1058.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77480;Valence-en-Brie;1007.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77481;Vanvillé;197.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77482;Varennes-sur-Seine;3748.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77483;Varreddes;2167.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77484;Vaucourtois;277.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77521;Villiers-sur-Morin;2083.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77522;Villiers-sur-Seine;278.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77523;Villuis;272.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77524;Vimpelles;512.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77525;Vinantes;381.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77489;Vaux-sur-Lunain;229.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77490;Vendrest;686.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77492;Verdelot;620.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77495;Vert-Saint-Denis;9291.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77496;Vieux-Champagne;192.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77498;Vignely;322.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77500;Villebéon;452.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77501;Villecerf;724.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77504;Villemaréchal;1055.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78006;Adainville;673.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78007;Aigremont;1075.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78009;Allainville;281.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78010;Les Alluets-le-Roi;1390.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78013;Andelu;550.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77510;Villeneuve-Saint-Denis;1369.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77511;Villeneuve-sous-Dammartin;595.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77512;Villeneuve-sur-Bellot;1151.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77513;Villenoy;5127.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77514;Villeparisis;26946.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77515;Villeroy;711.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77516;Ville-Saint-Jacques;815.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77517;Villevaudé;2132.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77518;Villiers-en-Bière;242.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77519;Villiers-Saint-Georges;1160.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77520;Villiers-sous-Grez;706.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78049;Bazemont;1727.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78050;Bazoches-sur-Guyonne;721.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78053;Béhoust;533.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78057;Bennecourt;1747.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78068;Blaru;907.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77526;Vincy-Manœuvre;271.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77527;Voinsles;580.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77528;Voisenon;1170.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77529;Voulangis;1541.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77530;Voulton;295.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77531;Voulx;1626.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77532;Vulaines-lès-Provins;80.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77534;Yèbles;980.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78003;Ablis;3913.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78084;Boissy-sans-Avoir;616.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78087;Bonnelles;2165.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78090;Bouafle;2234.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78092;Bougival;9134.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78096;Bourdonné;506.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78104;Breuil-Bois-Robert;764.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78108;Les Bréviaires;1302.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78020;Arnouville-lès-Mantes;951.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78030;Auffargis;1963.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78031;Auffreville-Brasseuil;671.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78033;Aulnay-sur-Mauldre;1180.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78034;Auteuil;1020.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78036;Autouillet;665.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78048;Bazainville;1469.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77303;Montdauphin;235.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77304;Montenils;34.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77306;Montereau-sur-le-Jard;499.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77307;Montévrain;15687.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77308;Montgé-en-Goële;717.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77309;Monthyon;1756.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77310;Montigny-le-Guesdier;295.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77311;Montigny-Lencoup;1358.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77313;Montmachoux;213.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77314;Montolivet;257.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77283;May-en-Multien;877.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77286;Meigneux;236.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77287;Meilleray;504.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78128;Cernay-la-Ville;1516.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78133;Chambourcy;5847.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78140;Chapet;1331.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78143;Châteaufort;1564.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78147;Chaufour-lès-Bonnières;442.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78152;Chavenay;1723.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78158;Le Chesnay-Rocquencourt;30689.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78070;Boinville-en-Mantois;285.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78071;Boinville-le-Gaillard;597.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78072;Boinvilliers;243.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78073;Bois-d'Arcy;16586.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78076;Boissets;301.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78077;La Boissière-École;747.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78082;Boissy-Mauvoisin;615.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78185;Courgent;414.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78188;Cravent;438.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78189;Crespières;1719.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78190;Croissy-sur-Seine;11013.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78192;Dammartin-en-Serve;1441.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78193;Dampierre-en-Yvelines;1008.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78194;Dannemarie;229.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78196;Davron;295.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78113;Brueil-en-Vexin;652.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78117;Buc;5816.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78118;Buchelay;3360.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78120;Bullion;1916.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78123;Carrières-sous-Poissy;20825.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78124;Carrières-sur-Seine;14791.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78125;La Celle-les-Bordes;840.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77129;Coulombs-en-Valois;576.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77130;Coulommes;542.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77132;Coupvray;3066.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77133;Courcelles-en-Bassée;223.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77134;Courchamp;151.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77135;Courpalay;1610.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77136;Courquetaine;184.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77137;Courtacon;245.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78202;Drocourt;554.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78160;Chevreuse;5502.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78162;Choisel;540.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78163;Civry-la-Forêt;373.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78164;Clairefontaine-en-Yvelines;850.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78171;Condé-sur-Vesgre;1279.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78227;Évecquemont;754.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78230;La Falaise;609.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78231;Favrieux;157.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78233;Feucherolles;3043.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78234;Flacourt;184.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78236;Flexanville;576.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78237;Flins-Neuve-Église;162.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78238;Flins-sur-Seine;2447.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78239;Follainville-Dennemont;2184.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78245;Fontenay-Mauvoisin;460.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77124;Conches-sur-Gondoire;1761.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77125;Condé-Sainte-Libiaire;1500.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77126;Congis-sur-Thérouanne;1772.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77127;Coubert;2005.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77128;Couilly-Pont-aux-Dames;2064.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78262;Galluis;1298.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78263;Gambais;2574.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78264;Gambaiseuil;64.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78276;Gommecourt;613.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78278;Goupillières;570.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78281;Goussonville;650.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78283;Grandchamp;300.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78285;Gressey;533.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78289;Grosrouvre;902.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78290;Guernes;1085.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78206;Ecquevilly;4279.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78208;Élancourt;26365.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78209;Émancé;872.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77185;Fleury-en-Bière;652.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77187;Fontaine-Fourches;576.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77190;Fontains;256.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77191;Fontenailles;1109.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77192;Fontenay-Trésigny;5994.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78317;Jambville;793.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78320;Notre-Dame-de-la-Mer;742.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78321;Jouars-Pontchartrain;6039.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78324;Jouy-Mauvoisin;554.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78325;Jumeauville;638.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78246;Fontenay-Saint-Père;949.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78255;Freneuse;4505.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78261;Gaillon-sur-Montcient;689.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78296;Guitrancourt;646.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78297;Guyancourt;29778.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78300;Hargeville;418.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78302;La Hauteville;157.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78305;Herbeville;228.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78307;Hermeray;1007.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77209;Gouvernes;1177.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77211;Grandpuits-Bailly-Carrois;1009.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77212;Gravon;156.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77214;Gressy;807.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77216;Grez-sur-Loing;1432.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77184;Flagy;584.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77289;Melz-sur-Seine;345.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77290;Méry-sur-Marne;679.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77292;Messy;1219.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77293;Misy-sur-Yonne;834.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77295;Moisenay;1362.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77296;Moissy-Cramayel;18511.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77297;Mondreville;334.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77298;Mons-en-Montois;454.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77300;Montceaux-lès-Meaux;669.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77266;Machault;815.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77267;La Madeleine-sur-Loing;347.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77268;Magny-le-Hongre;9060.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77269;Maincy;1828.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77270;Maisoncelles-en-Brie;977.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77271;Maisoncelles-en-Gâtinais;141.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77272;Maison-Rouge;880.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78329;Lainville-en-Vexin;805.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78334;Lévis-Saint-Nom;1603.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78337;Limetz-Villez;2110.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78343;Les Loges-en-Josas;1645.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78344;Lommoye;639.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78346;Longnes;1601.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78349;Longvilliers;496.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78354;Magnanville;6383.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77364;Le Plessis-aux-Bois;261.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77365;Le Plessis-Feu-Aussoux;597.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77366;Le Plessis-l'Évêque;291.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77367;Le Plessis-Placy;305.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77369;Poincy;797.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77370;Poligny;825.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77335;Chauconin-Neufmontiers;3784.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77336;Neufmoutiers-en-Brie;1338.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77319;Mortery;137.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77321;Mousseaux-lès-Bray;682.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77322;Moussy-le-Neuf;3253.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77323;Moussy-le-Vieux;1469.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77325;Mouy-sur-Seine;353.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77326;Nandy;6350.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77328;Nanteau-sur-Essonne;414.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77329;Nanteau-sur-Lunain;702.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78356;Magny-les-Hameaux;9386.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78362;Mantes-la-Ville;22332.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78364;Marcq;802.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78366;Mareil-le-Guyon;420.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78291;Guerville;2052.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78381;Maulette;1088.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78382;Maurecourt;4454.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78383;Maurepas;20629.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78384;Médan;1289.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78385;Ménerville;216.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78391;Méricourt;383.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78396;Le Mesnil-le-Roi;6332.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78397;Le Mesnil-Saint-Denis;7276.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78398;Les Mesnuls;910.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78402;Mézières-sur-Seine;3923.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78403;Mézy-sur-Seine;2242.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78404;Millemont;272.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78406;Milon-la-Chapelle;295.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78407;Mittainville;659.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78410;Moisson;902.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78413;Mondreville;381.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78415;Montainville;589.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78416;Montalet-le-Bois;322.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78417;Montchauvet;275.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78418;Montesson;14549.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78420;Montfort-l'Amaury;2779.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78431;Morainvilliers;3120.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78437;Mousseaux-sur-Seine;689.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78439;Mulcent;128.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78442;Neauphle-le-Château;3250.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78536;Sailly;354.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78537;Saint-Arnoult-en-Yvelines;5875.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78443;Neauphle-le-Vieux;937.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78444;Neauphlette;871.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78460;Oinville-sur-Montcient;1131.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78464;Orcemont;985.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78466;Orgeval;7252.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78470;Orphin;875.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78472;Orsonville;325.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78474;Orvilliers;925.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78475;Osmoy;413.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78478;Paray-Douaville;218.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78481;Le Pecq;16059.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78484;Perdreauville;701.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78576;Saint-Rémy-l'Honoré;1689.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78588;Saulx-Marchais;950.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78590;Senlisse;511.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78497;Poigny-la-Forêt;957.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78499;Ponthévrard;693.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78501;Porcheville;3382.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78502;Le Port-Marly;5559.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78505;Prunay-le-Temple;409.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78506;Prunay-en-Yvelines;808.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78513;La Queue-les-Yvelines;2629.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78516;Raizeux;970.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78518;Rennemoulin;116.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78520;Richebourg;1570.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78522;Rochefort-en-Yvelines;910.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78528;Rolleboise;346.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78530;Rosay;387.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78643;Vernouillet;9699.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78548;Saint-Forget;436.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78550;Saint-Germain-de-la-Grange;1847.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78557;Saint-Hilarion;999.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78558;Saint-Illiers-la-Ville;350.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78559;Saint-Illiers-le-Bois;449.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78561;Saint-Lambert;447.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78562;Saint-Léger-en-Yvelines;1468.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78564;Saint-Martin-de-Bréthencourt;690.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78565;Saint-Martin-des-Champs;304.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78567;Saint-Martin-la-Garenne;942.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78569;Sainte-Mesme;904.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78571;Saint-Nom-la-Bretèche;4965.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77119;Clos-Fontaine;244.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77120;Cocherel;618.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77121;Collégien;3354.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78653;Vicq;389.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78591;Septeuil;2264.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78597;Soindres;757.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78601;Sonchamp;1678.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78606;Le Tartre-Gaudran;37.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78608;Le Tertre-Saint-Denis;137.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78609;Tessancourt-sur-Aubette;966.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78615;Thiverval-Grignon;1023.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78616;Thoiry;1434.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78618;Tilly;530.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78620;Toussus-le-Noble;1172.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78623;Le Tremblay-sur-Mauldre;930.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91022;Arrancourt;115.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91035;Authon-la-Plaine;368.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91037;Auvernaux;332.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91038;Auvers-Saint-Georges;1223.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78647;Vert;852.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77106;Chauffry;994.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77107;Chaumes-en-Brie;3503.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77109;Chenoise-Cucharmoy;1607.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77110;Chenou;291.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77112;Chevrainvilliers;255.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77113;Chevru;1012.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77114;Chevry-Cossigny;4075.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77115;Chevry-en-Sereine;498.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77116;Choisy-en-Brie;1354.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77117;Citry;922.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77118;Claye-Souilly;13353.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91086;Bondoufle;10767.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91093;Boullay-les-Troux;624.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91095;Bouray-sur-Juine;2108.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78655;Vieille-Église-en-Yvelines;652.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78668;La Villeneuve-en-Chevrie;665.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78674;Villepreux;11931.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78677;Villette;524.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78681;Villiers-le-Mahieu;888.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+78688;Voisins-le-Bretonneux;10624.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91001;Abbéville-la-Rivière;322.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91017;Angervilliers;1772.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77163;Douy-la-Ramée;395.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77162;Doue;1122.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91129;Cerny;3531.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91130;Chalo-Saint-Mars;1053.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91131;Chalou-Moulineux;373.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91041;Avrainville;1052.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91044;Ballainvilliers;4904.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95675;Villeron;1766.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95580;Saint-Witz;2724.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91067;Blandy;111.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95592;Seraincourt;1305.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91075;Bois-Herpin;81.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91079;Boissy-la-Rivière;550.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91080;Boissy-le-Cutté;1331.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91081;Boissy-le-Sec;690.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91085;Boissy-sous-Saint-Yon;3882.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77273;Marchémoret;659.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77274;Marcilly;489.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77275;Les Marêts;152.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77276;Mareuil-lès-Meaux;3345.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77277;Marles-en-Brie;1898.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77278;Marolles-en-Brie;412.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77279;Marolles-sur-Seine;1774.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77280;Mary-sur-Marne;1155.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77281;Mauperthuis;495.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77249;Lésigny;6923.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77250;Leudon-en-Brie;168.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77252;Limoges-Fourches;625.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77253;Lissy;352.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77254;Liverdy-en-Brie;1410.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91180;Courances;348.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91184;Courdimanche-sur-Essonne;276.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91186;Courson-Monteloup;563.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91191;Crosne;9610.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91098;Boutervilliers;429.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77011;Aufferville;482.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91100;Bouville;669.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91106;Breux-Jouy;1285.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91109;Brières-les-Scellés;1186.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91111;Briis-sous-Forges;3342.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91112;Brouy;134.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91115;Bruyères-le-Châtel;3788.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91225;Étiolles;3105.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77009;Arville;145.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91232;La Ferté-Alais;3731.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91235;Fleury-Mérogis;13721.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91240;Fontaine-la-Rivière;192.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91243;Fontenay-lès-Briis;2350.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91244;Fontenay-le-Vicomte;1596.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91247;La Forêt-le-Roi;492.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77027;Beaumont-du-Gâtinais;1129.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91135;Champcueil;2854.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91137;Champmotteux;356.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91145;Chatignonville;72.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91148;Chauffour-lès-Étréchy;132.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91156;Cheptainville;2204.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91159;Chevannes;1550.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91175;Corbreuse;1640.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91275;Gometz-le-Châtel;2630.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91284;Les Granges-le-Roi;1197.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91292;Guibeville;923.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91293;Guigneville-sur-Essonne;904.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91315;Itteville;6746.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91318;Janville-sur-Juine;2041.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91319;Janvry;654.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91195;Dannemois;865.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91198;D'Huison-Longueville;1557.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91201;Draveil;30098.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91204;Écharcon;708.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95574;Saint-Prix;7612.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91215;Épinay-sous-Sénart;11611.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91340;Lisses;7373.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91347;Longpont-sur-Orge;6482.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77029;Beauvoir;185.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91363;Marcoussis;8618.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91374;Marolles-en-Beauce;237.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95633;Vaudherland;104.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91378;Mauchamps;387.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95637;Vauréal;16079.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91390;Le Mérévillois;3477.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91393;Mérobert;635.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91399;Mespuits;184.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91248;La Forêt-Sainte-Croix;148.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91249;Forges-les-Bains;4241.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91273;Gironville-sur-Essonne;760.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91274;Gometz-la-Ville;1536.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91412;Mondeville;726.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91425;Montlhéry;9772.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91432;Morangis;14129.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91433;Morigny-Champigny;4412.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91435;Morsang-sur-Seine;583.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91441;Nainville-les-Roches;564.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95604;Survilliers;4091.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91458;Nozay;4471.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91461;Ollainville;5455.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91463;Oncy-sur-École;1042.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91332;Leudeville;1562.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91333;Leuville-sur-Orge;4271.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91338;Limours;6517.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91339;Linas;7987.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91473;Orveau;141.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91482;Pecqueuse;580.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91494;Le Plessis-Pâté;4154.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91495;Plessis-Saint-Benoist;325.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91507;Prunay-sur-Essonne;324.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91508;Puiselet-le-Marais;261.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91511;Pussay;2288.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91514;Quincy-sous-Sénart;9477.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91519;Richarville;386.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91525;Roinville;1319.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91526;Roinvilliers;112.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91533;Saclas;1819.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91538;Saint-Aubin;661.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91405;Milly-la-Forêt;4562.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91408;Moigny-sur-École;1294.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91411;Les Molières;1975.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91546;Saint-Cyr-sous-Dourdan;982.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91547;Saint-Escobille;454.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91552;Saint-Germain-lès-Arpajon;11623.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91553;Saint-Germain-lès-Corbeil;7469.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91556;Saint-Hilaire;401.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91560;Saint-Jean-de-Beauregard;471.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91568;Saint-Maurice-Montcouronne;1543.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91573;Saint-Pierre-du-Perray;11993.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91577;Saintry-sur-Seine;5882.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91578;Saint-Sulpice-de-Favières;272.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91579;Saint-Vrain;3089.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91581;Saint-Yon;923.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91468;Ormoy;3225.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91469;Ormoy-la-Rivière;943.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77008;Armentières-en-Brie;1176.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91599;Soisy-sur-École;1174.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91600;Soisy-sur-Seine;7418.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91602;Souzy-la-Briche;503.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91613;Congerville-Thionville;211.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91617;Tigery;4333.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91619;Torfou;294.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91629;Valpuiseaux;617.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91630;Le Val-Saint-Germain;1576.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91631;Varennes-Jarcy;2465.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91634;Vaugrigneuse;1458.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91635;Vauhallan;1945.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91639;Vayres-sur-Essonne;978.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91645;Verrières-le-Buisson;15057.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77007;Argentières;361.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91544;Saint-Cyr-la-Rivière;466.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91654;Videlles;581.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91661;Villebon-sur-Yvette;10291.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91662;Villeconin;766.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91665;La Ville-du-Bois;8161.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91666;Villejust;2558.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91667;Villemoisson-sur-Orge;7332.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91671;Villeneuve-sur-Auvers;593.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91679;Villiers-le-Bâcle;1031.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91685;Villiers-sur-Orge;4545.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91689;Wissous;7151.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91692;Les Ulis;25886.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91587;Saulx-les-Chartreux;6733.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77167;Égligny;310.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77168;Égreville;2186.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77172;Esmans;934.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77173;Étrépilly;805.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77174;Everly;566.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77175;Évry-Grégy-sur-Yerre;3321.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77098;Châteaubleau;363.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77099;Château-Landon;3149.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77100;Le Châtelet-en-Brie;4207.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77101;Châtenay-sur-Seine;1049.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77102;Châtenoy;155.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77103;Châtillon-la-Borde;226.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77104;Châtres;714.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91648;Vert-le-Grand;2444.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+91649;Vert-le-Petit;2714.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77089;La Chapelle-Rablais;913.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77090;La Chapelle-Saint-Sulpice;239.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77091;Les Chapelles-Bourbon;459.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77093;La Chapelle-Moutils;400.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77094;Charmentray;291.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77095;Charny;1585.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77097;Chartronges;304.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77193;Forfry;238.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77194;Forges;443.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77195;Fouju;655.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77196;Fresnes-sur-Marne;948.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77197;Frétoy;173.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77198;Fromont;230.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77199;Fublaines;1370.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77164;Échouboulains;555.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77165;Les Écrennes;628.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77342;Obsonville;126.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77343;Ocquerre;378.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77344;Oissery;2496.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77345;Orly-sur-Morin;656.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77347;Les Ormes-sur-Voulzie;864.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77348;Ormesson;242.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77349;Othis;6717.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77352;Ozouer-le-Voulgis;2050.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77353;Paley;483.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77356;Passy-sur-Seine;49.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77357;Pécy;849.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77358;Penchard;1373.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77359;Perthes;2073.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77360;Pézarches;410.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77361;Pierre-Levée;480.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77363;Le Pin;1530.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77071;Chaintreaux;821.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77072;Chalautre-la-Grande;644.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77073;Chalautre-la-Petite;541.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77075;Chalifert;1584.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77076;Chalmaison;749.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77077;Chambry;1064.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77078;Chamigny;1480.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77080;Champcenest;205.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77081;Champdeuil;739.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77082;Champeaux;810.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77088;La Chapelle-la-Reine;2170.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77062;Carnetin;461.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77063;La Celle-sur-Morin;1235.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77065;Cély;1259.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77066;Cerneux;272.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77083;Champs-sur-Marne;27451.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77085;Chanteloup-en-Brie;4130.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77086;La Chapelle-Gauthier;1400.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77087;La Chapelle-Iger;191.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+92047;Marnes-la-Coquette;1752.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+92077;Ville-d'Avray;11089.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93015;Coubron;5175.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93050;Neuilly-sur-Marne;39800.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93061;Le Pré-Saint-Gervais;16993.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93062;Le Raincy;14735.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93063;Romainville;37152.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93074;Vaujours;8007.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93030;Dugny;11700.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+93033;Gournay-sur-Marne;7320.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77054;La Brosse-Montceaux;776.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77055;Brou-sur-Chantereine;5196.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77056;Burcy;150.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77057;Bussières;600.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77059;Bussy-Saint-Martin;738.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77060;Buthiers;792.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77061;Cannes-Écluse;2742.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77150;Cuisy;476.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77151;Dagny;305.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77153;Dammartin-en-Goële;11907.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77154;Dammartin-sur-Tigeaux;1280.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77155;Dampmart;3677.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77042;Boissy-le-Châtel;3346.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77043;Boitron;322.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77044;Bombon;935.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77045;Bougligny;738.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77046;Boulancourt;350.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77047;Bouleurs;1743.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77068;Cessoy-en-Montois;213.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77069;Chailly-en-Bière;2162.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77070;Chailly-en-Brie;1576.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77256;Lizines;174.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77259;Longperrier;3152.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77261;Lorrez-le-Bocage-Préaux;1274.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77262;Louan-Villegruis-Fontaine;491.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77263;Luisetaines;229.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77264;Lumigny-Nesles-Ormeaux;1468.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77265;Luzancy;1036.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77233;Iverny;618.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77234;Jablines;647.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77235;Jaignes;322.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77236;Jaulnes;344.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77237;Jossigny;650.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77238;Jouarre;4221.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77239;Jouy-le-Châtel;1630.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77240;Jouy-sur-Morin;2230.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94011;Bonneuil-sur-Marne;18270.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77038;Boissettes;437.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77039;Boissise-la-Bertrand;1206.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77041;Boissy-aux-Cailles;272.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77176;Faremoutiers;3057.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77177;Favières;1316.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77178;Faÿ-lès-Nemours;524.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77179;Féricy;625.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77180;Férolles-Attilly;1248.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77181;Ferrières-en-Brie;3932.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77182;La Ferté-Gaucher;4743.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77146;Croissy-Beaubourg;2018.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77147;La Croix-en-Brie;681.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95012;Amenucourt;212.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77049;Boutigny;874.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77050;Bransles;526.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77051;Bray-sur-Seine;2344.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77052;Bréau;384.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77053;Brie-Comte-Robert;19003.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94019;Chennevières-sur-Marne;18710.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94034;Fresnes;29528.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94038;L'Haÿ-les-Roses;31188.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94044;Limeil-Brévannes;27406.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94047;Mandres-les-Roses;4922.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94048;Marolles-en-Brie;4781.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94053;Noiseau;4628.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94055;Ormesson-sur-Marne;10977.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95054;Le Bellay-en-Vexin;224.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95055;Bellefontaine;474.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94056;Périgny;2724.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94059;Le Plessis-Trévise;21112.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94060;La Queue-en-Brie;12241.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94067;Saint-Mandé;21071.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94069;Saint-Maurice;14506.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94070;Santeny;3913.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94074;Valenton;14406.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+94075;Villecresnes;11647.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95002;Ableiges;1108.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95008;Aincourt;854.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95011;Ambleville;388.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95102;Bréançon;432.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95110;Brignancourt;262.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95119;Buhy;329.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95014;Andilly;2742.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95023;Arronville;618.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95024;Arthies;265.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95026;Asnières-sur-Oise;3127.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95028;Attainville;1904.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95040;Avernes;871.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95042;Baillet-en-France;2021.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95046;Banthelu;146.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95051;Beauchamp;9849.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95052;Beaumont-sur-Oise;10232.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95166;Cléry-en-Vexin;476.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95169;Commeny;646.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95170;Condécourt;564.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95177;Cormeilles-en-Vexin;1297.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95181;Courcelles-sur-Viosne;310.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95058;Bernes-sur-Oise;2684.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95059;Berville;374.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95061;Béthemont-la-Forêt;435.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95074;Boisemont;892.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95088;Bonneuil-en-France;1185.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95094;Bouqueval;314.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95101;Bray-et-Lû;954.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95214;Épinay-Champlâtreux;57.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95241;Fontenay-en-Parisis;2219.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95253;Frémainville;507.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95139;La Chapelle-en-Vexin;320.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95141;Charmont;32.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95144;Châtenay-en-France;68.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95149;Chaumontel;3332.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95150;Chaussy;631.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95151;Chauvry;297.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95154;Chennevières-lès-Louvres;282.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95157;Chérence;137.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77241;Juilly;2036.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77242;Jutigny;547.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77243;Lagny-sur-Marne;21461.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77244;Larchant;730.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77245;Laval-en-Brie;412.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77246;Léchelle;572.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77247;Lescherolles;464.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77248;Lesches;763.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77217;Grisy-Suisnes;2948.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77218;Grisy-sur-Seine;123.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77220;Guercheville;268.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77221;Guermantes;1153.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77222;Guignes;4448.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77223;Gurcy-le-Châtel;559.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77224;Hautefeuille;253.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95271;Génicourt;514.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95277;Gonesse;27707.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95287;Grisy-les-Plâtres;709.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95295;Guiry-en-Vexin;161.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95298;Haravilliers;589.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95301;Haute-Isle;293.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95303;Le Heaulme;207.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95304;Hédouville;278.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95183;Courdimanche;7311.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95205;Écouen;7202.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95211;Ennery;2243.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95212;Épiais-lès-Louvres;156.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95213;Épiais-Rhus;603.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95328;Labbeville;641.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95331;Lassy;196.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95341;Livilliers;389.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95348;Longuesse;496.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95353;Maffliers;1856.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95355;Magny-en-Vexin;5779.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95365;Mareil-en-France;734.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95369;Margency;3012.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95254;Frémécourt;526.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95258;Frouville;347.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95270;Genainville;522.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95395;Le Mesnil-Aubry;914.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95409;Moisselles;1261.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95424;Montigny-lès-Cormeilles;22457.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95426;Montlignon;3038.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95427;Montmagny;15105.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95428;Montmorency;21763.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95429;Montreuil-sur-Epte;377.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95308;Hérouville-en-Vexin;584.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95309;Hodent;225.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95313;L'Isle-Adam;12493.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95316;Jagny-sous-Bois;269.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95323;Jouy-le-Moutier;17854.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95456;Noisy-sur-Oise;549.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95459;Nucourt;719.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95462;Omerville;327.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95483;Le Perchay;504.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95489;Piscop;768.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95491;Le Plessis-Bouchard;8518.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95370;Marines;3594.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95371;Marly-la-Ville;6022.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95379;Maudétour-en-Vexin;208.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95387;Menouville;62.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95388;Menucourt;6184.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77018;Bailly-Romainvilliers;6980.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77019;Balloy;359.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77020;Bannost-Villegagnon;667.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77003;Amponville;349.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77138;Courtomer;591.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95535;Sagy;1096.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95541;Saint-Clair-sur-Epte;964.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95543;Saint-Cyr-en-Arthies;236.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95554;Saint-Gervais;878.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95436;Mours;1693.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95438;Moussy;108.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95445;Nerville-la-Forêt;756.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95446;Nesles-la-Vallée;1842.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95447;Neuilly-en-Vexin;240.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95493;Le Plessis-Luzarches;152.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95509;Puiseux-en-France;3765.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95510;Puiseux-Pontoise;603.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95523;La Roche-Guyon;399.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95529;Ronquerolles;907.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77156;Darvault;987.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77157;Dhuisy;334.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77033;Bezalles;221.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77034;Blandy;763.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77035;Blennes;546.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77036;Boisdon;131.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95641;Vémars;3124.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77026;Beauchery-Saint-Martin;384.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95610;Théméricourt;283.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95611;Theuville;53.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95612;Le Thillay;4560.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95627;Vallangoujard;625.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95628;Valmondois;1208.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95492;Le Plessis-Gassot;102.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77030;Bellot;777.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77139;Courtry;7330.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77140;Coutençon;260.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77022;Barbizon;1261.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77023;Barcy;387.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77024;Bassevelle;374.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77025;Bazoches-lès-Bray;878.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95658;Vigny;1137.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95656;Vienne-en-Arthies;379.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77031;Bernay-Vilbert;1005.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77032;Beton-Bazoches;890.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77141;Coutevroult;1187.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77143;Crégy-lès-Meaux;5446.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77144;Crèvecœur-en-Brie;437.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77145;Crisenoy;611.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95566;Saint-Martin-du-Tertre;2689.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77010;Aubepierre-Ozouer-le-Repos;984.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77015;Baby;113.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+77225;La Haute-Maison;352.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95676;Villers-en-Arthies;498.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95678;Villiers-Adam;858.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95680;Villiers-le-Bel;30053.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95682;Villiers-le-Sec;205.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
+95690;Wy-dit-Joli-Village;326.0;0.0;0;0;0.0;0.0;0.0;;aucune gare dans la commune;
